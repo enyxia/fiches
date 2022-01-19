@@ -1,4 +1,4 @@
-# Alexia Anovra/Cavalies, *Archère infaillible*
+# Alexia Deandal, *Archère infaillible*
 
 **RACE :** humaine (fanalis)
 
@@ -22,4 +22,4 @@
 
 > Anciennement joué par Sheele
 > 
-> Dernière modification le 14 juin 2020
+> Dernière modification le 19 janvier 2022
