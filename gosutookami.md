@@ -1,0 +1,25 @@
+Gosutookami, *Grand loup blanc*
+
+**RACE :** revenant
+
+**SEXE :** masculin
+
+**ÉTAGE :** 29
+
+**STATUS :** en vie
+
+**SPÉCIALISATION :** duelliste
+
+**ARMES :** crocs et griffes
+
+**TRAITS DE CARACTÈRE :** Gosutookami étant un loup, possédant un instinct de prédateur, est très vif et impulsif. Toutefois, ce dernier est capable de comprendre et d'user du langage humain, ce qui souligne qu'il est capable d'apprendre. Cependant, la plupart du temps, son aspect animal prendra toujours le dessus.
+
+**ASPECT PHYSIQUE :** Gosutookami est un loup blanc tout ce qu'il y a de plus classique, aux yeux bleus, et ne possédant aucune particularité autre que sa légère transparence.
+
+**POUVOIR :** L'unique pouvoir de Gosutookami est d'interagir avec les choses matérielles, alors que, lui-même, est immatériel dû à sa condition de revenant.
+
+**INSPIRATION :** Kindred (League of Legends)
+
+> Anciennement joué par MathSky 
+> 
+> Dernière modification le 14 juin 2020
