@@ -1,0 +1,23 @@
+Maureen Mojito, *Fille des rubis*
+
+**RACE :** humaine
+
+**ÂGE :** 27 ans
+
+**SEXE :** féminin
+
+**STATUS :** assassinée par Yuu (S1-S3)
+
+**SPÉCIALISATIONS :** duelliste, mage
+
+**ARME :** magie
+
+**TRAITS DE CARACTÈRE :** Douce, aimante et bien-aimée, elle a maintenant perdu la raison pour une raison encore inconnue
+
+**ASPECT PHYSIQUE :** Jeune femme aux cheveux blancs, aux yeux rouges et de petite taille
+
+**POUVOIR :** Capacité à matérialiser des rubis et de les manipuler à sa guise
+
+> Anciennement joué par Sheele
+> 
+> Dernière modification le 14 juin 2020
