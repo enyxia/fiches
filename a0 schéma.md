@@ -1,4 +1,4 @@
-Nom complet, *titre*
+# Nom complet, *titre*
 
 **RACE :** 
 
@@ -24,6 +24,6 @@ Nom complet, *titre*
 
 **NOTES :**
 
-> Anciennement joué par
-> 
-> Dernière modification le 
+`Anciennement joué par`
+
+![Image](https://share.alkanife.fr/bna.png)
