@@ -1,4 +1,4 @@
-Sully Albatrum, *Justice des âmes*
+# Sully Albatrum, *Justice des âmes*
 
 **RACE :** humaine
 
@@ -20,8 +20,10 @@ Sully Albatrum, *Justice des âmes*
 
 **POUVOIR :** Sully est capable d'extérioriser le mal dans l'âme d'une personne, pouvant même réduire à néant une âme complètement corrompue.
 
-**INSPIRATIONS :** Hinata Hyûuga (Naruto), Greed (FullMetal Alchemist: Brotherhood), Le Gourmet (Tokyo Ghoul)
+**INSPIRATIONS :** Hinata Hyûuga (*Naruto*), Greed (*FullMetal Alchemist: Brotherhood*), Le Gourmet (*Tokyo Ghoul*)
 
-> Anciennement joué par Sully
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sully`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/sully.png)

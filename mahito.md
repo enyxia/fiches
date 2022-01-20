@@ -1,10 +1,12 @@
-Mahito Sukeruton, *Nécromancien*
+# Mahito Sukeruton, *Nécromancien*
 
 **RACE :** humaine
 
-**ÂGE :** 15 ans
+**ÂGE :** 15 ans (né le 30 octobre 1968)
 
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** tué par Kanna (S5-S5)
 
@@ -18,8 +20,10 @@ Mahito Sukeruton, *Nécromancien*
 
 **POUVOIR :** nécromancie
 
-**INSPIRATIONS :** Papyrus (Undertale), Kirito (Sword Art Online), Mordekaiser (League of Legends), Ossatueur (Pokémon)
+**INSPIRATIONS :** Papyrus (*Undertale*), Kirito (*Sword Art Online*), Mordekaiser (*League of Legends*), Ossatueur (*Pokémon*)
 
-> Anciennement joué par MathSky
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par MathSky`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/mahito.png)

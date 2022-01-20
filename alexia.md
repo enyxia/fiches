@@ -12,7 +12,7 @@
 
 **SPÉCIALISATIONS :** Assassin, Mage
 
-**ARMES :** Archery (*Arc des anges fourbes*)
+**ARME :** Archery (*Arc des anges fourbes*)
 
 **TRAITS DE CARACTÈRE :** Nous ne savons que peu de choses sur la façon d'être d'Alexia Deandal. Nous savons simplement qu'elle était une mère dure avec ses enfants, très stricte. Malheureusement, au-delà de ça, il semblerait que sa vie de famille était tumultueuse, en particulier avec ses filles Yuu, Enyxia et Morgiana. Cependant, il est indéniable que malgré ces mésententes, elle aime autant son mari que ses enfants, et serait prête au pire pour les protéger. Il semblerait aussi, selon Veldo, qu'Alexia souffre d'un traumatisme de son enfance qui aurait accentué sa cruauté et lui aurait créé une peur/haine des femmes.
 
@@ -20,6 +20,10 @@
 
 **POUVOIR :** TBA
 
-> Anciennement joué par |||||||||||
-> 
-> Dernière modification le 19 janvier 2022
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par /`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/alexia.png)

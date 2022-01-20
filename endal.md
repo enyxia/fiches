@@ -1,10 +1,12 @@
-Endal Mao, *Ardeur de la terre*
+# Endal Mao, *Ardeur de la terre*
 
-**RACE :** humain
+**RACE :** humaine
 
-**ÂGE :** 14 ans
+**ÂGE :** 14 ans (né le 4 mai 1971)
 
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** assassiné par Yuu (S6-S7)
 
@@ -18,8 +20,10 @@ Endal Mao, *Ardeur de la terre*
 
 **POUVOIR :** Endal est capable de manipuler la terre et le feu avec une aisance appréciable
 
-**INSPIRATIONS :** Nagoramatio (Enyxia), Edward Elric (FullMetal Alchemist: Brotherhood)
+**INSPIRATIONS :** Nagoramatio (*Enyxia*), Edward Elric (*FullMetal Alchemist: Brotherhood*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/endal.png)

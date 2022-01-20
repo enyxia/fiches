@@ -1,6 +1,8 @@
-Kudo, *Enfantique des ténèdres*
+# Kudo, *Enfantique des ténèdres*
 
 **RACE :** enfantique
+
+**ÂGE :** /
 
 **SEXE :** Les Enfantiques n'ont pas de sexe défini, mais sont d'apparence masculine.
 
@@ -20,6 +22,8 @@ Kudo, *Enfantique des ténèdres*
 
 **INSPIRATIONS :** William (Code Lyoko), Vantablack (Helvexia), Jevil (Deltarune), Cersei Lannister (Game of Thrones)
 
-> Anciennement joué par KuYuDo
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par KuYuDo`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/kudo.png)

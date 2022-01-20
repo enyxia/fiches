@@ -1,6 +1,8 @@
-Maskaï Hitch, *Tireur d'élite*
+# Maskaï Hitch, *Tireur d'élite*
 
 **RACE :** humaine
+
+**ÂGE :** /
 
 **SEXE :** masculin
 
@@ -20,6 +22,8 @@ Maskaï Hitch, *Tireur d'élite*
 
 **INSPIRATIONS :** Karma (Assassination Classroom), Mine (Akame ga kill!), Golgo 13 (Golgo 13)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 24 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/maskai.png)

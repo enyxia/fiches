@@ -1,6 +1,8 @@
-Yoshisuu Cavalies, *Kaban*
+# Yoshisuu Cavalies, *Kaban*
 
 **RACE :** humaine
+
+**ÂGE :** /
 
 **SEXE :** féminin
 
@@ -12,8 +14,16 @@ Yoshisuu Cavalies, *Kaban*
 
 **ARME :** Konoshusame
 
+**TRAITS DE CARACTÈRE :** /
+
 **ASPECT PHYSIQUE :** Jeune femme aux cheveux noirs, au regard dur et verdâtre et de taille moyenne
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**POUVOIR :** /
+
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/yoshisuu.png)

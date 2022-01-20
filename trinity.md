@@ -1,10 +1,12 @@
-Trinity Grey, *Balerine déchue*
+# Trinity Grey, *Balerine déchue*
 
 **RACE :** humaine
 
-**ÂGE :** 10 ans
+**ÂGE :** 10 ans (né le 24 avril 1975)
 
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** assassinée par Andrea (S6-S6)
 
@@ -16,8 +18,12 @@ Trinity Grey, *Balerine déchue*
 
 **ASPECT PHYSIQUE :** Jeune fille d'un mètre vingt-cinq aux cheveux noirs portant un tutu rose.
 
-**INSPIRATION :** Rakan (League of Legends)
+**POUVOIR :** /
 
-> Anciennement joué par MathSky
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATION :** Rakan (*League of Legends*)
+
+**NOTES :** /
+
+`Anciennement joué par MathSky`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/trinity.png)

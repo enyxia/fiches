@@ -1,10 +1,12 @@
-Anoriel Aqualis
+# Anoriel Aqualis
 
 **RACE :** humaine
 
 **ÂGE :** 22 ans (né le 23 juillet 1963)
 
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** assassiné par Yuu (S6-S7)
 
@@ -18,6 +20,10 @@ Anoriel Aqualis
 
 **POUVOIR :** manipulation aquatique
 
-> Anciennement joué par Wellarkel
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Wellarkel`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/anoriel.png)

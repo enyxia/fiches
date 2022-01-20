@@ -1,4 +1,4 @@
-Akuma Horton, *Orphelin maudit*
+# Akuma Horton, *Orphelin maudit*
 
 **RACE :** humaine
 
@@ -20,6 +20,10 @@ Akuma Horton, *Orphelin maudit*
 
 **POUVOIR :** La capacité spéciale d'Akuma est d'augmenter sa vitesse sur une durée courte et il peut atteindre une vitesse telle qu'il ne puisse plus maitriser sa course.
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/akuma.png)

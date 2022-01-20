@@ -2,6 +2,8 @@
 
 **RACE :** humaine
 
+**ÂGE :** /
+
 **SEXE :** masculin
 
 **ÉTAGE :** 15
@@ -18,6 +20,10 @@
 
 **POUVOIR :** aucun
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 24 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/adamai.png)

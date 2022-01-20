@@ -1,8 +1,8 @@
-Marla Hinnjï, *Trancheuse gelée*
+# Marla Hinnjï, *Trancheuse gelée*
 
 **RACE :** humaine
 
-**ÂGE :** 12 ans
+**ÂGE :** 12 ans (née le 5 juillet 1973)
 
 **SEXE :** féminin
 
@@ -22,6 +22,8 @@ Marla Hinnjï, *Trancheuse gelée*
 
 **INSPIRATIONS :** Yoshino (Date A Live), Kohina Hiruko (Black Bullet), Esdeath (Akame ga Kill!), Enyxia Cavalies (Enyxia), Katara (Avatar: The Last Airbender)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/marla.png)

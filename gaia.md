@@ -1,4 +1,10 @@
-Gaia, *Déité falsifiée*
+# Gaia, *Déité falsifiée*
+
+**RACE :** /
+
+**ÂGE :** /
+
+**SEXE :** /
 
 **ÉTAGE :** 10
 
@@ -14,8 +20,10 @@ Gaia, *Déité falsifiée*
 
 **POUVOIR :** Gaia contrôle l'espace et le temps, une capacité qu'il a obtenu grâce à l'utilisation de l'artéfact nommé « Hyper-Cube ».
 
-**INSPIRATIONS :** L'être de la fiole/Father (FullMetal Alchemist), Cyborg (Kenkai Sensen)
+**INSPIRATIONS :** L'être de la fiole/Father (*FullMetal Alchemist*), Cyborg (*Kenkai Sensen*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 24 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/gaia.png)

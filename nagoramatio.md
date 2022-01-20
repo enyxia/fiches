@@ -1,8 +1,12 @@
-Nagoramatio Ariana-Fergonez, *Confrontation des éléments*
+# Nagoramatio Ariana-Fergonez, *Confrontation des éléments*
 
 **RACE :** humaine
 
+**ÂGE :** /
+
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** assassiné par Darken Sheele (S4-S5)
 
@@ -12,10 +16,14 @@ Nagoramatio Ariana-Fergonez, *Confrontation des éléments*
 
 **TRAITS DE CARACTÈRE :** Calme à premiere vue
 
+**ASPECT PHYSIQUE :** /
+
 **POUVOIR :** Maitrise les 4 éléments primordiaux (Eau, Terre, Feu, Air)
 
 **INSPIRATIONS :** Aang (Avatar), Misuto (Corpse Party Blooddrive), Lulu (League of Legends)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/nagoramatio.png)

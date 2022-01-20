@@ -1,17 +1,29 @@
-MathSpirit, *Chimère étoilée*
+# MathSpirit, *Chimère étoilée*
 
 **RACE :** chimère
 
+**ÂGE :** /
+
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** assassiné par Yuu (S2-S3)
 
-**SPÉCIALISATION(S) :** duelliste
+**SPÉCIALISATION :** duelliste
+
+**ARME :** /
 
 **TRAITS DE CARACTÈRE :** Rusé, énigmatique, spirituel et aux instincts sauvages.
 
 **ASPECT PHYSIQUE :** Chimère avec une étoile flottante au dessus de sa tête.
 
-> Anciennement joué par MathSky
-> 
-> Dernière modification le 14 juin 2020
+**POUVOIR :** /
+
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par MathSky`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/mathspirit.png)

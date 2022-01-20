@@ -1,6 +1,6 @@
-Bimaï Hitch, *Prêtresse sanglante*
+# Bimaï Hitch, *Prêtresse sanglante*
 
-**RACE :** mumaine
+**RACE :** humaine
 
 **ÂGE :** 26 ans (née le 14 novembre 1954)
 
@@ -20,8 +20,10 @@ Bimaï Hitch, *Prêtresse sanglante*
 
 **POUVOIR :** Bimaï possède l'habilité de manipuler le sang. Les limites de ces pouvoirs ne sont pas réellement définies.
 
-**INSPIRATIONS :** Ganta Igarashi (Deadman Wonderland), Rena Ryûgûu (Higurashi no naku koro ni), Ken Kaneki (Tokyo Ghoul), Liver (Akame Ga Kill!)
+**INSPIRATIONS :** Ganta Igarashi (*Deadman Wonderland*), Rena Ryûgûu (*Higurashi no naku koro ni*), Ken Kaneki (*Tokyo Ghoul*), Liver (*Akame Ga Kill!*)
 
-> Anciennement joué par Sheele 
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/bimai.png)

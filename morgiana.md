@@ -1,8 +1,8 @@
-Morgiana Cavalies, *Phénix*
+# Morgiana Cavalies, *Phénix*
 
 **RACE :** humaine
 
-**ÂGE :** 33 ans
+**ÂGE :** 33 ans (née le 14 mars 1949)
 
 **SEXE :** féminin
 
@@ -22,6 +22,8 @@ Morgiana Cavalies, *Phénix*
 
 **INSPIRATIONS :** Morgiana (Magi: The Labyrinth of Magic), Arthur Schopenhauer, Asta (Black Clover)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/morgiana.png)

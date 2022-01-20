@@ -1,6 +1,8 @@
-Gosutookami, *Grand loup blanc*
+# Gosutookami, *Grand loup blanc*
 
 **RACE :** revenant
+
+**ÂGE :** /
 
 **SEXE :** masculin
 
@@ -18,8 +20,10 @@ Gosutookami, *Grand loup blanc*
 
 **POUVOIR :** L'unique pouvoir de Gosutookami est d'interagir avec les choses matérielles, alors que, lui-même, est immatériel dû à sa condition de revenant.
 
-**INSPIRATION :** Kindred (League of Legends)
+**INSPIRATION :** Kindred (*League of Legends*)
 
-> Anciennement joué par MathSky 
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par MathSky`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/gosutookami.png)

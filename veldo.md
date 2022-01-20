@@ -1,8 +1,8 @@
-Veldo Cavalies, *Assassin des templiers enyxiens*
+# Veldo Cavalies, *Assassin des templiers enyxiens*
 
 **RACE :** humaine
 
-**ÂGE :** 38 ans
+**ÂGE :** 38 ans (né le 4 janvier 1915)
 
 **SEXE :** masculin
 
@@ -20,6 +20,10 @@ Veldo Cavalies, *Assassin des templiers enyxiens*
 
 **POUVOIR :** Veldo avait le pouvoir d'accélérer sa vitesse. Mais plus que sa vitesse, il semblerait que son corps devienne « immatériel » lorsqu'il use de ce pouvoir, car rien ne semble l'atteindre.
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/veldo.png)

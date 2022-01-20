@@ -1,4 +1,4 @@
-Kei Hyrenya, *Épéiste*
+# Kei Hyrenya, *Épéiste*
 
 **RACE :** humaine
 
@@ -22,6 +22,8 @@ Kei Hyrenya, *Épéiste*
 
 **INSPIRATIONS :** Alibaba (Magi: The Labyrinth of Magic), Maebara Keichi (Higurashi no naku koro ni), Sparadrap (Noob), Edwige (Seuls)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :**
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/kei.png)

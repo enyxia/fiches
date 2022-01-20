@@ -1,10 +1,12 @@
-Kashya Hyrenya, *Général des tempêtes*
+# Kashya Hyrenya, *Général des tempêtes*
 
 **RACE :** humaine
 
-**ÂGE :** 27 ans
+**ÂGE :** 27 ans (née le 13 décembre 1956)
 
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** suicidée (S4-S5)
 
@@ -18,8 +20,10 @@ Kashya Hyrenya, *Général des tempêtes*
 
 **POUVOIR :** Kashya controle la foudre à la manière d'un enfantique
 
-**INSPIRATIONS :** Banda-boy (Darwin's Game), Kashya (Diablo II), Kanna (Inuyasha), Lui Xuelan (Darwin's Game), Ramiel (Neon genesis Evangelion), Esdeath (Akame ga kill), Marijane (Fairy Tail), Megumin (Kono Subarashi sekai no shukufuju wo!)
+**INSPIRATIONS :** Banda-boy (*Darwin's Game*), Kashya (*Diablo II*), Kanna (*Inuyasha*), Lui Xuelan (*Darwin's Game*), Ramiel (*Neon genesis Evangelion*), Esdeath (*Akame ga kill*), Marijane (*Fairy Tail*), Megumin (*Kono Subarashi sekai no shukufuju wo!*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/kashya.png)

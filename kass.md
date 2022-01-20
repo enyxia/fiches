@@ -1,10 +1,12 @@
-Kass Horton, *Voyageuse*
+# Kass Horton, *Voyageuse*
 
 **RACE :** humaine
 
 **ÂGE :** 42 ans
 
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** assassinée par Yuu (S1-S3) / explosée par Mahito (S4-S5) / En vie (S5-...)
 
@@ -16,6 +18,12 @@ Kass Horton, *Voyageuse*
 
 **ASPECT PHYSIQUE :** On peux la repérer principalement par sa veste marron assez clair et son écharpe rouge accompagnés d'un grand sac à dos, décoré d'un bouclier assez grand, possédant une certaine particularité. On remarque aussi facilement ses cheveux, lorsqu'ils ne sont pas attachés, cachant parfois des petits yeux marrons à peine visibles.
 
-> Anciennement joué par Hypix
-> 
-> Dernière modification le 14 juin 2020
+**POUVOIR :** /
+
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Hypix`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/kass.png)

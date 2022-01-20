@@ -1,10 +1,14 @@
-Ravenn Cavalies, *Incarnation de la mort*
+# Ravenn Cavalies, *Incarnation de la mort*
 
 **RACE :** enfantique
 
-**ÂGE :** 25 ans
+**ÂGE :** 25 ans (né le 24 décembre 1959)
 
 **SEXE :** féminin
+
+**ÉTAGE :** /
+
+**STATUS :** /
 
 **SPÉCIALISATIONS :** assassin, duelliste
 
@@ -16,8 +20,10 @@ Ravenn Cavalies, *Incarnation de la mort*
 
 **POUVOIRS :** L'étendue des pouvoirs de Ravenn est inconnue, on sait cependant que Ravenn est capable de ramener les morts à la vie.
 
-**INSPIRATIONS :** Kurome (Akame ga kill!), Rubilax (Wakfu), Marie (Dies Irae), Bayonetta (Bayonetta), Dante (Devil May Cry), Dante (Les surnaturels), Camille (Seuls)
+**INSPIRATIONS :** Kurome (*Akame ga kill!*), Rubilax (*Wakfu*), Marie (*Dies Irae*), Bayonetta (*Bayonetta*), Dante (*Devil May Cry*), Dante (*Les surnaturels*), Camille (*Seuls*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/ravenn.png)

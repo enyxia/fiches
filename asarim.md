@@ -1,4 +1,4 @@
-Asarim Horton, *Élu d'Hyvernn*
+# Asarim Horton, *Élu d'Hyvernn*
 
 **RACE :** humaine
 
@@ -6,9 +6,13 @@ Asarim Horton, *Élu d'Hyvernn*
 
 **SEXE :** masculin
 
+**ÉTAGE :** /
+
 **STATUS :** assassiné par Yuu (S5-S7)
 
 **SPÉCIALISATIONS :** assassin, mage
+
+**ARMES :** /
 
 **TRAITS DE CARACTÈRE :** Asarim est plutôt penchant vers la sympathie, il se montre très taquin, parfois même au stade de provoquer. Son Maître raconte de lui qu'il est très bon élève.
 
@@ -16,8 +20,10 @@ Asarim Horton, *Élu d'Hyvernn*
 
 **POUVOIR :** manipulation végétale
 
-**INSPIRATIONS :** Asarim et Firone (The Legend of Zelda), Ivor (Minecraft: Story Mode)
+**INSPIRATIONS :** Asarim et Firone (*The Legend of Zelda*), Ivor (*Minecraft: Story Mode*)
 
-> Anciennement joué par Hypix
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Hypix`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/asarim.png)

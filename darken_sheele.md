@@ -1,4 +1,4 @@
-Darken Sheele Cavalies, *Nemesis*
+# Darken Sheele Cavalies, *Nemesis*
 
 **RACE :** clone
 
@@ -10,7 +10,7 @@ Darken Sheele Cavalies, *Nemesis*
 
 **STATUS :** en vie
 
-**SPÉCIALISATION(S) :** toutes
+**SPÉCIALISATION :** toutes
 
 **ARME :** copie d'Atalante (*Faux des dieux déchus*), magie
 
@@ -20,8 +20,10 @@ Darken Sheele Cavalies, *Nemesis*
 
 **POUVOIR :** Darken a la faculté très particulière de maitriser à la fois les darkenings et les éléments. Il est donc capable de fusionner à la fois les éléments et les darkenings, ce qui lui confère un répertoire de techniques très varié, Darken est donc très dangereux en combat.
 
-**INSPIRATION :** Dark Link (The Legend of Zelda)
+**INSPIRATION :** Dark Link (*The Legend of Zelda*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/darken_sheele.png)

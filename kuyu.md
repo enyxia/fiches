@@ -1,10 +1,12 @@
-KuYu Cavalies, *Pierre des Enfantiques*
+# KuYu Cavalies, *Pierre des Enfantiques*
 
 **RACE :** enfantique
 
-**ÂGE :** 16 ans
+**ÂGE :** 16 ans (né le 4 avril 1964)
 
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** en vie
 
@@ -18,8 +20,10 @@ KuYu Cavalies, *Pierre des Enfantiques*
 
 **POUVOIR :** KuYu a développé son pouvoir dans la Tour Infinie, ou plutôt devrait-on dire « ses pouvoirs ». KuYu a hérité d'une immunité à la lumière, aux ténèbres et au néant de la part de ses deux parents originels. Mais il a également hérité de leurs capacités.
 
-**INSPIRATIONS :** Kudo (Enyxia), Yudo (Enyxia), Tatsumi (Akame ga kill), Naho (Corpse Party)
+**INSPIRATIONS :** Kudo (*Enyxia*), Yudo (*Enyxia*), Tatsumi (*Akame ga kill*), Naho (*Corpse Party*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/kuyu.png)

@@ -1,8 +1,8 @@
-Tidus Ragnarok, *Sans-Avenir*
+# Tidus Ragnarok, *Sans-Avenir*
 
 **RACE :** humaine
 
-**ÂGE :** 16 ans
+**ÂGE :** 16 ans (né le 2 mars 1957)
 
 **SEXE :** masculin
 
@@ -20,8 +20,10 @@ Tidus Ragnarok, *Sans-Avenir*
 
 **POUVOIR :** kagune
 
-**INSPIRATIONS :** Ken Kaneki (Tokyo Ghoul), Olaf (League of Legends)
+**INSPIRATIONS :** Ken Kaneki (*Tokyo Ghoul*), Olaf (*League of Legends*)
 
-> Anciennement joué par Izzumaki
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Izzumaki`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/tidus.png)

@@ -1,10 +1,12 @@
-Maureen Mojito, *Fille des rubis*
+# Maureen Mojito, *Fille des rubis*
 
 **RACE :** humaine
 
-**ÂGE :** 27 ans
+**ÂGE :** 27 ans (née le 25 septembre 1945)
 
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** assassinée par Yuu (S1-S3)
 
@@ -18,6 +20,10 @@ Maureen Mojito, *Fille des rubis*
 
 **POUVOIR :** Capacité à matérialiser des rubis et de les manipuler à sa guise
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/maureen.png)

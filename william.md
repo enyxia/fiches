@@ -1,4 +1,4 @@
-William Cavalies, *Lumière jaune*
+# William Cavalies, *Lumière jaune*
 
 **RACE :** humaine
 
@@ -22,6 +22,8 @@ William Cavalies, *Lumière jaune*
 
 **INSPIRATIONS :** Hyakuya Mika (*Owari no Seraph*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 24 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/william.png)

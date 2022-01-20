@@ -1,4 +1,4 @@
-Enyxia Cavalies, *Enfant du monde*
+# Enyxia Cavalies, *Enfant du monde*
 
 **RACE :** humaine
 
@@ -20,6 +20,10 @@ Enyxia Cavalies, *Enfant du monde*
 
 **POUVOIR :** Enyxia est capable de manipuler quelqu'un à sa guise. Il n'y a malheureusement pas beaucoup d'information sur la façon dont elle l'utilise, étant donné qu'elle ne semble pas apprécier le fait d'y recourir, bien qu'elle admette l'utiliser pour connaitre les véritables intentions des gens. Son pouvoir semble donc ne pas se limiter au simple contrôle mental.
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/enyxia.png)

@@ -1,10 +1,12 @@
-Math Michelle, *Dragonière*
+# Math Michelle, *Dragonière*
 
 **RACE :** humaine
 
-**ÂGE :** 18 ans
+**ÂGE :** 18 ans (née le 18 novembre 1950)
 
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** assassinée par Sheele (S1-S1)
 
@@ -18,6 +20,10 @@ Math Michelle, *Dragonière*
 
 **POUVOIR :** Son pouvoir est de gagner rapidement la confiance d'un dragon provient d'une vieille blessure qu'elle a subi de l'un d'eux. Elle possède également la magie de feu, qu'elle a très peu exercée.
 
-> Anciennement joué par Fate
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Fate`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/math.png)

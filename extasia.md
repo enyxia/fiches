@@ -1,8 +1,12 @@
-Extasia Hyrenya, *Demoiselle mécanique*
+# Extasia Hyrenya, *Demoiselle mécanique*
 
 **RACE :** humaine
 
+**ÂGE :** /
+
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** assassiné par Gaia (S1-S1)
 
@@ -16,8 +20,10 @@ Extasia Hyrenya, *Demoiselle mécanique*
 
 **POUVOIR :** controle la mécanique
 
-**INSPIRATION :** Orianna (League of Legends)
+**INSPIRATION :** Orianna (*League of Legends*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :**
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/extasia.png)

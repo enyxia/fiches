@@ -1,10 +1,12 @@
-Terry Touère, *Nain marchand*
+# Terry Touère, *Nain marchand*
 
 **RACE :** nain
 
 **ÂGE :** 18 ans
 
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** sacrifié par Kanna (S4-S4)
 
@@ -16,8 +18,12 @@ Terry Touère, *Nain marchand*
 
 **ASPECT PHYSIQUE :** Barbe rousse, porteur d'épaulettes grises sur manteau brun en peau d'ours. Les sortes de petit bandeaux sur les bras et jambes servent à tenir les fourreaux, renfermant des dagues, malgré le fait qu'il porte quand même une épée sur lui, dont le fourreau est attaché derrière, en bas du dos.
 
+**POUVOIR :** /
+
 **INSPIRATION :** Le Nain (Donjon de Naheulbeuk)
 
-> Anciennement joué par Hypix
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Hypix`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/terry.png)

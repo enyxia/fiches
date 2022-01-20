@@ -1,10 +1,12 @@
-Aliédad Cavalies, *Magicienne des temps anciens*
+# Aliédad Cavalies, *Magicienne des temps anciens*
 
 **RACE :** humaine
 
 **ÂGE :** ~10 000 ans (33 ans en apparence)
 
 **SEXE :** Féminin
+
+**ÉTAGE :** /
 
 **STATUS :** assassinée par Yuu (S2-S7)
 
@@ -18,6 +20,10 @@ Aliédad Cavalies, *Magicienne des temps anciens*
 
 **POUVOIR :** Faculté de contrôler un élément, plus précisemment l'air.
 
-> Anciennement joué par Fate
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Fate`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/aliedad.png)

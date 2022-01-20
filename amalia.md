@@ -1,8 +1,12 @@
-Amalia Hyvern, *Esprit de la forêt*
+# Amalia Hyvern, *Esprit de la forêt*
 
 **RACE :** élementaire
 
+**ÂGE :** /
+
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** Revenue à l'état d'essence. (Amalia étant à la base une invocation possédant une partie de la puissance de Sheele Cavalies, cette dernière est revenue en lui à sa mort. Cela dit, ça ne veut pas dire qu'Amalia est morte, étant donné que Sheele peut l'invoquer à n'importe quel moment.)
 
@@ -16,8 +20,10 @@ Amalia Hyvern, *Esprit de la forêt*
 
 **POUVOIR :** Amalia étant lié à la forêt d'Hyvernn, il est naturel pour elle de contrôler les plantes et la terre.
 
-**INSPIRATIONS :** Amalia (Wakfu), Arbre Mojo (The Legend of Zelda: Ocarina of Time)
+**INSPIRATIONS :** Amalia (*Wakfu*), Arbre Mojo (*The Legend of Zelda: Ocarina of Time*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/amalia.png)

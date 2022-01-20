@@ -1,10 +1,12 @@
-Matthias Gracia, *Passe-Partout*
+# Matthias Gracia, *Passe-Partout*
 
 **RACE :** humaine
 
-**ÂGE :** 19 ans
+**ÂGE :** 19 ans (né le 23 juillet 1964)
 
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** assassiné par Darken Sheele (S4-S5)
 
@@ -18,8 +20,10 @@ Matthias Gracia, *Passe-Partout*
 
 **POUVOIR :** Contrôle unique de la Keyblade
 
-**INSPIRATION :** Riku (Kingdom Hearts)
+**INSPIRATION :** Riku (*Kingdom Hearts*)
 
-> Anciennement joué par Izzumaki
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Izzumaki`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/matthias.png)

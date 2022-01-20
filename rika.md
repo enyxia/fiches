@@ -1,10 +1,12 @@
-Rika (Ahxia) Atalante, *Ôde de l'injustice*
+# Rika (Ahxia) Atalante, *Ôde de l'injustice*
 
 **RACE :** humaine
 
-**ÂGE :** 40 ans
+**ÂGE :** 40 ans (née le 4 janvier 1943)
 
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** assassinée par Darken Sheele (S4-S5)
 
@@ -18,6 +20,10 @@ Rika (Ahxia) Atalante, *Ôde de l'injustice*
 
 **POUVOIRS :** Rika est capable de manipuler le son, ce qui lui permet de créer des effets sur une ou plusieurs personnes. Elle est également immunisée à toutes les formes d'électricités.
 
-> Anciennement joué par Sheele 
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/rika.png)

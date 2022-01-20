@@ -1,6 +1,8 @@
-Nikolaï Hitch, *Roi Enyxien*
+# Nikolaï Hitch, *Roi Enyxien*
 
 **RACE :** humaine
+
+**ÂGE :** /
 
 **SEXE :** masculin
 
@@ -8,7 +10,7 @@ Nikolaï Hitch, *Roi Enyxien*
 
 **STATUS :** en vie
 
-**SPÉCIALISATION(S) :** duelliste, mage
+**SPÉCIALISATIONS :** duelliste, mage
 
 **ARME :** invocations
 
@@ -20,6 +22,8 @@ Nikolaï Hitch, *Roi Enyxien*
 
 **INSPIRATION :** Vector (Resident Evil: Revelations)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/nikolai.png)

@@ -1,10 +1,12 @@
-Raizan Dymen
+# Raizan Dymen
 
 **RACE :** humaine
 
-**ÂGE :** 19 ans
+**ÂGE :** 19 ans (né le 4 octobre 1947)
 
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** tué par Gaia (S1-S1)
 
@@ -20,6 +22,8 @@ Raizan Dymen
 
 **INSPIRATION :** Ain (Elsword)
 
-> Anciennement joué par Jeffaria
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Jeffaria`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/raizan.png)

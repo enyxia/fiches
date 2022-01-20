@@ -1,6 +1,8 @@
-Christopher Teronnes, *Héros de guerre*
+# Christopher Teronnes, *Héros de guerre*
 
 **RACE :** humaine
+
+**ÂGE :** /
 
 **SEXE :** masculin
 
@@ -18,6 +20,10 @@ Christopher Teronnes, *Héros de guerre*
 
 **POUVOIR :** aucun
 
-> Anciennement joué par RelGainSlide
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par RelGainSlide`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/christopher.png)

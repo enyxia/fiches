@@ -1,8 +1,12 @@
-Nerias, *Dragon des glaces*
+# Nerias, *Dragon des glaces*
 
 **RACE :** dragonophorme
 
+**ÂGE :** /
+
 **SEXE :** féminin
+
+**ÉTAGE :** /
 
 **STATUS :** tuée par Kanna (S4-S5)
 
@@ -16,6 +20,10 @@ Nerias, *Dragon des glaces*
 
 **POUVOIR :** contrôle de la glace
 
-> Anciennement joué par MathSky
-> 
-> Dernière modification le 14 juin 2020
+**INSPIRATIONS :** /
+
+**NOTES :** /
+
+`Anciennement joué par MathSky`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/nerias.png)

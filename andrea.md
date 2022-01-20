@@ -1,4 +1,4 @@
-Andrea Ada, *Tranche-lames*
+# Andrea Ada, *Tranche-lames*
 
 **RACE :** humaine
 
@@ -20,8 +20,10 @@ Andrea Ada, *Tranche-lames*
 
 **POUVOIRS :** Création d'armes blanches, manipulation de la glace et manipulation du feu.
 
-**INSPIRATIONS :** Enju Aihara (Black Bullet), Kohina Hiruko (Black Bullet), Yuu Cavalies (Enyxia), Shoto Todoroki (My Hero Academia)
+**INSPIRATIONS :** Enju Aihara (*Black Bullet*), Kohina Hiruko (*Black Bullet*), Yuu Cavalies (*Enyxia*), Shoto Todoroki (*My Hero Academia*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/andrea.png)

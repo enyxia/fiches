@@ -1,10 +1,12 @@
-Sheele Cavalies, *Demi-Enfantique*
+# Sheele Cavalies, *Demi-Enfantique*
 
 **RACE :** hybride
 
 **ÂGE :** 40 ans (né le 5 septembre 1945)
 
 **SEXE :** masculin
+
+**ÉTAGE :** /
 
 **STATUS :** assassiné par Yuu (S1-S3)
 
@@ -20,6 +22,8 @@ Sheele Cavalies, *Demi-Enfantique*
 
 **INSPIRATIONS :** Sheele (*Akame ga kill!*)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/sheele.png)

@@ -1,18 +1,18 @@
-Yuu Cavalies, *Dévoration*
+# Yuu Cavalies, *Dévoration*
 
-**RACE :** Humaine ?
+**RACE :** humaine ?
 
-**ÂGE :** 46 ans
+**ÂGE :** 46 ans (née le 31 décembre 1939)
 
-**SEXE :** Féminin
+**SEXE :** féminin
 
 **ÉTAGE :** 0
 
-**STATUS :** En vie
+**STATUS :** en vie
 
-**SPÉCIALISATION(S) :** Toutes
+**SPÉCIALISATIONS :** toutes
 
-**ARME(S) :** Atalante (faux des dieux déchus)
+**ARME :** Atalante (*Faux des dieux déchus*)
 
 **TRAITS DE CARACTÈRE :** Yuu a un esprit très vif, des réflexes incroyables, et que peu d'émotion. En effet, elle a été privée de ses sentiments très vite/tôt. Elle est très intelligente et maline, capable d'elaborer une stratégie en prevoyant les actions de son opposant. Toutefois, dans la tour, Yuu retrouve peu à peu ses sentiments, les premiers étant la douleur, la peur, le regret et la culpabilité.
 
@@ -22,6 +22,8 @@ Yuu Cavalies, *Dévoration*
 
 **INSPIRATIONS :** Yuu (OC AngelMJ), Kuro (Fate/kaleid liner prisma Illya), Illya (Fate/stay night: Unlimited Blade Works), Jack The Ripper (Fate/Apocrypha), Rena Ryûugu (Higurashi no naku koro ni), Leblanc (League of Legends), Gasai Yuno (Mirai Nikki), Efreet (Date A Live), Seryu Ubiquitous (Akame ga kill!), Mine (Akame ga kill!), Karma (Assassination classroom), Munakata Kyosûke (Danganronpa 3: The End of Kibougamine academia: Miraï Hen), Asuka (Neon Genesis Evangelion)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/yuu.png)

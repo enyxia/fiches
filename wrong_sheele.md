@@ -1,8 +1,8 @@
-Wrong Sheele Cavalies, *Clone de Rubis*
+# Wrong Sheele Cavalies, *Clone de Rubis*
 
 **RACE :** clone
 
-**ÂGE :** 40 ans
+**ÂGE :** 40 ans 
 
 **SEXE :** masculin
 
@@ -22,6 +22,8 @@ Wrong Sheele Cavalies, *Clone de Rubis*
 
 **INSPIRATIONS :** Sheele (Akame ga kill!), Phospholite (Houseki no Kuni), Ruby Rose (RWBY)
 
-> Anciennement joué par Sheele
-> 
-> Dernière modification le 14 juin 2020
+**NOTES :** /
+
+`Anciennement joué par Sheele`
+
+![image](https://share.alkanife.fr/enyxia_characters/full/wrong_sheele.png)
