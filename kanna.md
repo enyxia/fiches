@@ -1,28 +1,28 @@
 # Kanna Cavalies, *Jugement*
 
-**RACE :** hybride
+**RACE :** Hybride (Dragon-Humain)
 
 **ÂGE :** 20 ans
 
-**SEXE :** féminin
+**SEXE :** Féminin
 
-**ÉTAGE :** /
+**ÉTAGE :** 9
 
-**STATUS :** assassinée par Yuu (S1-S6)
+**STATUS :** assassinée par Yuu (S1-S6), En vie (S8)
 
-**SPÉCIALISATIONS :** duelliste, assassin
+**SPÉCIALISATIONS :** Duelliste, Assassin
 
-**ARMES :** Atalante (*Faux des dieux déchus*), magie
+**ARMES :** Atalante (*Faux des dieux déchus*)
 
-**TRAITS DE CARACTÈRE :** impulsive
+**TRAITS DE CARACTÈRE :** TBA
 
-**ASPECT PHYSIQUE :** Jeune fille aternant entre ses apparences de ses 8 ans et 18 ans, ses cheveux sont blancs et sa taille varie entre 1m10 et 1m60
+**ASPECT PHYSIQUE :** TBA
 
-**POUVOIR :** /
+**POUVOIR :** TBA
 
 **INSPIRATION :** Kanna Kamui (Kobayashi-san chi no maid dragon)
 
-**NOTES :** /
+**NOTES :** TBA
 
 `Anciennement joué par Sheele`
 
