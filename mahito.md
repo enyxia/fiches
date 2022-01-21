@@ -1,26 +1,26 @@
 # Mahito Sukeruton, *Nécromancien*
 
-**RACE :** humaine
+**RACE :** Humain
 
 **ÂGE :** 15 ans (né le 30 octobre 1968)
 
-**SEXE :** masculin
+**SEXE :** Masculin
 
-**ÉTAGE :** /
+**ÉTAGE :** 12
 
-**STATUS :** tué par Kanna (S5-S5)
+**STATUS :** Tué par Kanna (S5-S5)
 
-**SPÉCIALISATIONS :** mage, duelliste
+**SPÉCIALISATIONS :** Mage, Duelliste
 
-**ARME :** humérus anscestral
+**ARME :** Il utilise une sorte de pieu taillé dans un os, qu'il appelle "Humérus Ancestral". La provenance de cet os est inconnue.
 
 **TRAITS DE CARACTÈRE :** Mystérieux, calme et patient
 
-**ASPECT PHYSIQUE :** Jeune homme vêtu d'un manteau noir avec une écharpe et à l'oeil droit brillant
+**ASPECT PHYSIQUE :** Mahito est un jeune homme vêtu d'un manteau noir, accompagné d'une épaisse écharpe qu'il porte toujours au cou et vole librement au vent. Il a un teint extrêmement pâle, presque maladif. Il est également très maigre, comme s'il avait été affamé, prisonnier des geoles les plus cruelles du monde. On dit souvent que dans l'obscurité, son oeil droit est luminescent. Par ailleurs, en combat, ce même oeil dégage des flammes bleutées et froide comme la mort.
 
-**POUVOIR :** nécromancie
+**POUVOIR :** Mahito est un des rares mages au monde capable d'user de la nécromancie, c'est-à-dire la magie qui permet de ramener les morts à la vie et de les contrôler. Cependant, sa magie ne ramène que le corps, et non l'âme des gens. Ce qu'il apprendra, le coeur brisé, à ses dépends.
 
-**INSPIRATIONS :** Papyrus (*Undertale*), Kirito (*Sword Art Online*), Mordekaiser (*League of Legends*), Ossatueur (*Pokémon*)
+**INSPIRATIONS :** Kirito (*Sword Art Online*), Mordekaiser (*League of Legends*)
 
 **NOTES :** /
 
