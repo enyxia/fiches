@@ -48,5 +48,5 @@
 | William | ❓ `Pas lue / Aucun changements` |
 | Wrong Sheele | ❓ `Pas lue / Aucun changements` |
 | Yoshisuu | ❓ `Pas lue / Aucun changements` |
-| Yudo | ❓ `Pas lue / Aucun changements` |
+| Yudo | ⚠ `TBA NOTES` |
 | Yuu | ⚠ `TBA NOTES` |
