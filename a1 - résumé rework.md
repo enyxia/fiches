@@ -49,4 +49,4 @@
 | Wrong Sheele | ❓ `Pas lue / Aucun changements` |
 | Yoshisuu | ❓ `Pas lue / Aucun changements` |
 | Yudo | ❓ `Pas lue / Aucun changements` |
-| Yuu | ❓ `Pas lue / Aucun changements` |
+| Yuu | ⚠ `TBA NOTES` |
