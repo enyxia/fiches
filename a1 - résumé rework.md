@@ -8,7 +8,7 @@
 | Aliedad | ✅ `Valide` |
 | amalia | ❓ `Pas lue / Aucun changements` |
 | Andréas | ❓ `Pas lue / Aucun changements` |
-| Anoriel | ❓ `Pas lue / Aucun changements` |
+| Anoriel | ✅ `Valide` |
 | Asarim | ❓ `Pas lue / Aucun changements` |
 | Bimaï | ❓ `Pas lue / Aucun changements` |
 | Christopher | ❓ `Pas lue / Aucun changements` |
