@@ -1,4 +1,4 @@
-# Kudo, *Enfantique des Ténèdres*
+# Kudo, *Enfantique des Ténèbres*
 
 **RACE :** Enfantique
 
