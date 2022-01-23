@@ -23,7 +23,7 @@
 | Kashya | ✅ `Valide` |
 | Kass | ❓ `Pas lue / Aucun changements` |
 | Kei | ❓ `Pas lue / Aucun changements` |
-| Kudo | ❓ `Pas lue / Aucun changements` |
+| Kudo | ✅ `Valide` |
 | Kuyu | ❓ `Pas lue / Aucun changements` |
 | Mahito | ✅ `Valide` |
 | Marla | ❓ `Pas lue / Aucun changements` |
