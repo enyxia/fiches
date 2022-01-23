@@ -20,7 +20,7 @@
 
 **POUVOIR :** Étant un Enfantique et donc à l'origine même d'un élément, la maitrise des Ténèbre de Kudo est tout bonnement incomparable à la maitrise que peut atteindre un humain. De plus, contrairement aux humains osant manier son art, il ne peut être empoisonné par cette magie lorsqu’il en use. Il possède dix différents arcanes de cet élément.
 
-**INSPIRATIONS :** William (Code Lyoko), Vantablack (Helvexia), Jevil (Deltarune), Cersei Lannister (Game of Thrones)
+**INSPIRATIONS :** William (*Code Lyoko*), Vantablack (*Helvexia*), Jevil (*Deltarune*), Cersei Lannister (*Game of Thrones*)
 
 **NOTES :** Chaque Enfantique possède une régénération accrue, régénération qui deviens bien plus lente une fois que le nécroderme est touché. Le nécroderme a une fonction de coeur pour un Enfantique, le détruire est donc l'un des deux seuls moyens de tuer un Enfantique définitivement. Pour chaque individu, il se situe à une position du corps différente. Pour ce qui est de Kudo, son nécroderme se situe à l’emplacement du rein gauche.
 
