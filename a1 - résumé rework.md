@@ -19,7 +19,7 @@
 | Gaia | ❓ `Pas lue / Aucun changements` |
 | Gosutookami | ❓ `Pas lue / Aucun changements` |
 | Hanyuu | ❓ `Pas lue / Aucun changements` |
-| Kanna | ⚠ `TBA TDC, TBA NOTES` |
+| Kanna | ⚠ `TBA NOTES` |
 | Kashya | ✅ `Valide` |
 | Kass | ❓ `Pas lue / Aucun changements` |
 | Kei | ❓ `Pas lue / Aucun changements` |
