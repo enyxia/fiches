@@ -1,16 +1,16 @@
 # Yudo, *Enfantique de Lumière*
 
-**RACE :** enfantique
+**RACE :** Enfantique
 
-**ÂGE :** /
+**ÂGE :** Inconnu
 
-**SEXE :** Les Enfantiques n'ont pas de sexe défini, mais sont d'apparence masculine.
+**SEXE :** Les Enfantiques n'ont pas de sexe défini, mais Yudo est d'apparence masculine.
 
 **ÉTAGE :** 50
 
-**STATUS :** En vie
+**STATUS :** En vie (S1-S8)
 
-**SPÉCIALISATION :** mage, duelliste
+**SPÉCIALISATION :** Mage, Duelliste
 
 **ARME :** Magie
 
@@ -18,11 +18,11 @@
 
 **ASPECT PHYSIQUE :** Yudo a l'apparence d'un jeune homme très pale, aux yeux d'un gris très clair, des cheveux mi-longs blancs, en bref, tout dans son apparence est fait pour rappeler la lumière. Il porte à peu de choses près (principalement la couleur change) les mêmes vêtements que son frère Kudo.
 
-**POUVOIR :** Manipulation de la lumière
+**POUVOIR :** Étant un Enfantique et donc à l'origine même d'un élément, la maitrise de la Lumière de Yudo est tout bonnement incomparable à la maitrise que peut atteindre un humain. Il possède dix différents arcanes de cet élément.
 
-**INSPIRATIONS :** /
+**INSPIRATIONS :** Aucune
 
-**NOTES :** /
+**NOTES :** TBA
 
 `Anciennement joué par Sheele`
 
