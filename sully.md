@@ -26,4 +26,4 @@
 
 `Anciennement joué par Sully`
 
-![image](https://share.alkanife.fr/enyxia_characters/full/sully.png)
+![image](https://enyxia.alkanife.fr/images/characters/sully.png)

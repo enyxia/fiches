@@ -26,4 +26,4 @@
 
 `Anciennement joué par Sheele`
 
-![image](https://share.alkanife.fr/enyxia_characters/full/hanyuu.png)
+![image](https://enyxia.alkanife.fr/images/characters/hanyuu.png)

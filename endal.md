@@ -26,4 +26,4 @@
 
 `Anciennement joué par Sheele`
 
-![image](https://share.alkanife.fr/enyxia_characters/full/endal.png)
+![image](https://enyxia.alkanife.fr/images/characters/endal.png)

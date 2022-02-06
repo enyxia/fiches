@@ -26,4 +26,4 @@
 
 `Anciennement joué par Hypix`
 
-![image](https://share.alkanife.fr/enyxia_characters/full/terry.png)
+![image](https://enyxia.alkanife.fr/images/characters/terry.png)

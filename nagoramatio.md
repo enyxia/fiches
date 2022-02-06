@@ -26,4 +26,4 @@
 
 `Anciennement joué par Sheele`
 
-![image](https://share.alkanife.fr/enyxia_characters/full/nagoramatio.png)
+![image](https://enyxia.alkanife.fr/images/characters/nagoramatio.png)

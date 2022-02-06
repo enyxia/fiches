@@ -26,4 +26,4 @@
 
 `Anciennement joué par MathSky`
 
-![image](https://share.alkanife.fr/enyxia_characters/full/trinity.png)
+![image](https://enyxia.alkanife.fr/images/characters/trinity.png)

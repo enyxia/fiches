@@ -26,4 +26,4 @@
 
 `Anciennement joué par Wellarkel`
 
-![image](https://share.alkanife.fr/enyxia_characters/full/anoriel.png)
+![image](https://enyxia.alkanife.fr/images/characters/anoriel.png)
