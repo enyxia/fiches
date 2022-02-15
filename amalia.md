@@ -1,4 +1,4 @@
-# Amalia Hyvern, *Esprit de la forêt*
+# Amalia Hyvernn, *Esprit de la forêt*
 
 **RACE :** Élementaire
 
