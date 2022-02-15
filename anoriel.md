@@ -18,11 +18,11 @@
 
 **ASPECT PHYSIQUE :** Anoriel est un jeune homme de constitution moyenne, que ce soit dans la taille ou sa musculature. Il cache son corps sous une longue cape avec capuche pour dissimuler son visage. Les quelques personnes ayant eu l'opportunité de le voir disent se souvenir d'un teint pâle, de traits fins et de cheveux bruns proche du châtain.
 
-**POUVOIR :** Anoriel est capable de manipuler l'eau à son état liquide. Il est incapable d'en créer. Toutefois, il peut redonner l'état liquide à n'importe quelle source aqueuse, gazeuse ou solide.
+**POUVOIR :** Anoriel est capable de manipuler l'eau à son état liquide. Il est incapable d'en créer. Toutefois, il peut redonner l'état liquide à n'importe quelle source aqueuse, gazeuse ou solide. Il ne peut cependant pas empêcher l'eau de passer d'un état à un autre, ce qui le rends très vulnérable face au sorts impliquant de la chaleur.
 
 **INSPIRATIONS :** Aucune
 
-**NOTES :** /
+**NOTES :** Anoriel est actuellement l'un des personnages ayant accompagné Yuu jusqu'au sommet de la Tour, à l'étage 50.
 
 `Anciennement joué par Wellarkel`
 
