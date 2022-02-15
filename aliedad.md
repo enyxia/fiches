@@ -8,7 +8,7 @@
 
 **ÉTAGE :** 35
 
-**STATUS :** assassinée par Yuu (S2-S7), En vie (S8)
+**STATUS :** Assassinée par Yuu (S2-S7), En vie (S8)
 
 **SPÉCIALISATION :** Mage Soutenant
 
@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Marie (*Dies Irae*), Professeur Xavier (*X-men*), Hina (*Hinamatsuri*)
 
-**NOTES :** /
+**NOTES :** Lasse des combats incessants qu'elle a dû mener pendant dix-mille ans, Aliédad a refusé d'accompagner Yuu dans la tour. Elle a cependant demandé à Kanna de continuer avec cette dernière, car elle savait que sa fille pourrait jouer un rôle bien plus conséquent que le sien au sommet de cet enfer. Elle se trouve actuellement à son étage.
 
 `Anciennement joué par Fate`
 
