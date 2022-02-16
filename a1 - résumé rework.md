@@ -2,14 +2,14 @@
 
 | Nom fiche | Status |
 | --- | ----------- |
-| Adamai | ❓ `Pas lue / Aucun changements` |
-| Akuma | ❓ `Pas lue / Aucun changements` |
-| Alexia | ⚠ `Manque les pouvoirs, inspirations nulles` |
+| Adamai | ⚠ `Âge nul, inspirations nulles` |
+| Akuma | ⚠ `Inspirations nulles` |
+| Alexia | ✅ `Valide` |
 | Aliedad | ✅ `Valide` |
-| amalia | ❓ `Pas lue / Aucun changements` |
-| Andréas | ❓ `Pas lue / Aucun changements` |
+| Amalia | ⚠ `Étage nul` |
+| Andrea | ✅ `Valide` |
 | Anoriel | ✅ `Valide` |
-| Asarim | ❓ `Pas lue / Aucun changements` |
+| Asarim | ⚠ `Pouvoirs en TBA` |
 | Bimaï | ❓ `Pas lue / Aucun changements` |
 | Christopher | ❓ `Pas lue / Aucun changements` |
 | Darken Sheele | ❓ `Pas lue / Aucun changements` |
