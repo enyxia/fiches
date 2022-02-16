@@ -2,7 +2,7 @@
 
 **RACE :** Élementaire
 
-**ÂGE :** /
+**ÂGE :** L'âge d'Amalia est inconnu
 
 **SEXE :** Féminin
 
