@@ -6,7 +6,7 @@
 
 **SEXE :** masculin
 
-**ÉTAGE :** /
+**ÉTAGE :** 28
 
 **STATUS :** assassiné par Yuu (S6-S7)
 
