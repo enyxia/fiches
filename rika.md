@@ -6,7 +6,7 @@
 
 **SEXE :** féminin
 
-**ÉTAGE :** /
+**ÉTAGE :** 34
 
 **STATUS :** assassinée par Darken Sheele (S4-S5)
 
