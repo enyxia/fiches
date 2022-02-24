@@ -6,7 +6,7 @@
 
 **SEXE :** masculin
 
-**ÉTAGE :** /
+**ÉTAGE :** 31
 
 **STATUS :** assassiné par Darken Sheele (S4-S5)
 
