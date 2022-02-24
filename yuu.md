@@ -10,11 +10,11 @@
 
 **STATUS :** En vie (S1-S8)
 
-**SPÉCIALISATIONS :** toutes
+**SPÉCIALISATIONS :** Toutes
 
 **ARME :** Atalante (*Faux des dieux déchus*)
 
-**TRAITS DE CARACTÈRE :** Yuu a un esprit très vif, des réflexes incroyables, et que peu d'émotion. En effet, elle a été privée de ses sentiments très vite/tôt. Elle est très intelligente et maline, capable d'elaborer une stratégie en prevoyant les actions de son opposant. Toutefois, dans la tour, Yuu retrouve peu à peu ses sentiments, les premiers étant la douleur, la peur, le regret et la culpabilité.
+**TRAITS DE CARACTÈRE :** Yuu a un esprit très vif, des réflexes incroyables, et que peu d'émotion. En effet, elle a été privée de ses sentiments très tôt dans sa vie. Elle est très intelligente et maline, capable d'elaborer une stratégie en prévoyant les actions de son opposant. Toutefois, dans la tour, Yuu retrouve peu à peu ses sentiments, les premiers étant la douleur, la peur, le regret et la culpabilité.
 
 **ASPECT PHYSIQUE :** Yuu, malgré son âge avancé et quelques cicatrices légères, est une très belle femme, bien conservée par le temps, Elle a les cheveux bruns et les yeux rouges (c'est en réalité dû à au reflet de son sang, car Yuu a perdu la pigmentation de ses yeux). Elle est un peu plus grande que la moyenne et sa peau est très blanche. Elle porte un ensemble noir et blanc aux reliefs rouges.
 
