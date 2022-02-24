@@ -6,7 +6,7 @@
 
 **SEXE :** féminin
 
-**ÉTAGE :** /
+**ÉTAGE :** 48
 
 **STATUS :** assassinée par Yuu (S1-S3) / explosée par Mahito (S4-S5) / En vie (S5-...)
 
