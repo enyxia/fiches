@@ -6,7 +6,7 @@
 
 **SEXE :** féminin
 
-**ÉTAGE :** 0
+**ÉTAGE :** 44
 
 **STATUS :** assassinée par Yuu (S6-S6)
 
