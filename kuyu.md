@@ -6,7 +6,7 @@
 
 **SEXE :** masculin
 
-**ÉTAGE :** /
+**ÉTAGE :** 32
 
 **STATUS :** en vie
 
