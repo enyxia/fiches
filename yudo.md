@@ -12,7 +12,7 @@
 
 **SPÉCIALISATION :** Mage, Duelliste
 
-**ARME :** Magie
+**ARME :** Épée de Lumière (nom inconnu)
 
 **TRAITS DE CARACTÈRE :** Yudo est une source lumineuse, sa personnalité sera donc aussi claire que l'élément même, "douce" et "agréable", les seuls mots qui peuvent le déterminer. Cependant, Yudo cache un secret lorsqu'il s'énerve. Sa forme avatar est en réalité une forme où il est dénué d'aucune autre émotion que la haine, et n'a qu'une seule envie : faire table-rase. C'est donc pour cette raison que personne ne veut énerver Yudo.
 
@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Aucune
 
-**NOTES :** TBA
+**NOTES :** Chaque Enfantique possède une régénération accrue, régénération qui deviens bien plus lente une fois que le nécroderme est touché. Le nécroderme a une fonction de coeur pour un Enfantique, le détruire est donc l'un des deux seuls moyens de tuer un Enfantique définitivement. Pour chaque individu, il se situe à une position du corps différente. Pour ce qui est de Kudo, son nécroderme se situe à l’emplacement du rein droit.
 
 `Anciennement joué par Sheele`
 
