@@ -12,7 +12,7 @@
 
 **SPÉCIALISATIONS :** Duelliste, Mage
 
-**ARME :** Magie
+**ARME :** Nerias utilise majoritairement sa magie pour se défendre et ne possède aucune arme extérieure.
 
 **TRAITS DE CARACTÈRE :** Nerias étant de nature enfantine, elle est très curieuse, très douce et attentionnée, à l'écoute lorsque son maitre, Matthias Garcia, lui adresse la parole. Elle est d'ailleurs extrèmement fidèle à ce dernier, ne le trahissant jamais, ne faillant jamais. Cependant, étant immature émotionnellement, Nerias a une forte tête et a parfois tendance à faire des caprices.
 
@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Aucune
 
-**NOTES :** /
+**NOTES :** Nerias est un personnage qui, à la base, avait refusé de laisser Yuu continuer dans la tour. Elle a cependant changé d'avis lorsque Kanna l'a défiée. Elles se battront jusqu'à la restauration.
 
 `Anciennement joué par MathSky`
 
