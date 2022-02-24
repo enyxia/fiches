@@ -6,7 +6,7 @@
 
 **SEXE :** féminin
 
-**ÉTAGE :** /
+**ÉTAGE :** 43
 
 **STATUS :** assassinée par Andrea (S6-S6)
 
