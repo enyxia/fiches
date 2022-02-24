@@ -6,7 +6,7 @@
 
 **SEXE :** féminin
 
-**ÉTAGE :** /
+**ÉTAGE :** 18
 
 **STATUS :** assassiné par Gaia (S1-S1)
 
