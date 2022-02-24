@@ -6,7 +6,7 @@
 
 **SEXE :** masculin
 
-**ÉTAGE :** /
+**ÉTAGE :** 36
 
 **STATUS :** sacrifié par Kanna (S4-S4)
 
