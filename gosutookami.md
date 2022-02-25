@@ -1,18 +1,18 @@
-# Gosutookami, *Grand loup blanc*
+# Gosutookami, *Grand loup Blanc*
 
-**RACE :** revenant
+**RACE :** Invocation
 
-**ÂGE :** /
+**ÂGE :** Dû à son status d'invocation, l'âge exact de Gosutookami est inconnu. Il aurait cependant au moins 100 ans.
 
-**SEXE :** masculin
+**SEXE :** Masculin
 
 **ÉTAGE :** 38
 
-**STATUS :** en vie
+**STATUS :** Revenu à l'état d'essence (S5), En vie (S8)
 
-**SPÉCIALISATION :** duelliste
+**SPÉCIALISATION :** Duelliste
 
-**ARMES :** crocs et griffes
+**ARMES :** Gosutookami use de ses crocs et de ses griffes pour se défendre.
 
 **TRAITS DE CARACTÈRE :** Gosutookami étant un loup, possédant un instinct de prédateur, est très vif et impulsif. Toutefois, ce dernier est capable de comprendre et d'user du langage humain, ce qui souligne qu'il est capable d'apprendre. Cependant, la plupart du temps, son aspect animal prendra toujours le dessus.
 
@@ -22,7 +22,7 @@
 
 **INSPIRATION :** Kindred (*League of Legends*)
 
-**NOTES :** /
+**NOTES :** Gosutookami est resté à distance du groupe de Yuu, étant effrayé par Kanna Cavalies. Il les a donc laissé passer sans faire d'histoires. Il est d'ailleurs resté sur place.
 
 `Anciennement joué par MathSky`
 
