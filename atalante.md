@@ -1,28 +1,28 @@
-# Atalante Atalante (Genesis), *Faux des dieux déchus*
+# Atalante Atalante (Genesis), *Le Fléau des Enfantiques*
 
-**RACE :** 
+**RACE :** Humaine
 
-**ÂGE :**
+**ÂGE :** +10000 ans (../../-....)
 
-**SEXE :** 
+**SEXE :** Féminin
 
-**ÉTAGE :** 
+**ÉTAGE :** Atalante ne se trouve pas dans la tour infinie, du moins, elle n'y a pas un étage dédié.
 
-**STATUS :** 
+**STATUS :** Décédée (S8)
 
-**SPÉCIALISATIONS :** 
+**SPÉCIALISATIONS :** Duelliste
 
-**ARME :** 
+**ARME :** Sheele, *Faux des dieux déchus*
 
-**TRAITS DE CARACTÈRE :** 
+**TRAITS DE CARACTÈRE :** TBA
 
-**ASPECT PHYSIQUE :** 
+**ASPECT PHYSIQUE :** TBA
 
-**POUVOIR :** 
+**POUVOIR :** TBA
 
-**INSPIRATIONS :**
+**INSPIRATIONS :** UMP45 (*Girls' Frontline*), UMP40 (*Girls' Frontline*), UMP9 (*Girls' Frontline*), Yuzuki Kurebayashi (*Selector Infected WIXOSS*), Aang (*Avatar: The Last Airbender*), Sarina Shizukume (*Mahou Shoujo Site*), Atalante Genesis (*Enyxia:Origins*)
 
-**NOTES :**
+**NOTES :** TBA
 
 `Anciennement joué par`
 
