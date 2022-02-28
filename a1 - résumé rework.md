@@ -41,7 +41,7 @@
 | Nagoramatio | ⚠ `Âge nul, aspect nul, notes nulles` |
 | Raizan | ✅ `Valide` |
 | Ravenn | ❓ `Pas lue / Aucun changements` |
-| Rika | ⚠ `Inspirations nulles, notes nulles` |
+| Rika | ⚠ `IMAGE` |
 | Sheele | ⚠ `TBA NOTES` |
 | Sully | ❓ `Pas lue / Aucun changements` |
 | Terry | ⚠ `Pouvoir nul, notes nulles` |
