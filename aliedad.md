@@ -2,7 +2,7 @@
 
 **RACE :** Humaine
 
-**ÂGE :** ~10 000 ans (33 ans en apparence)
+**ÂGE :** 11126 ans (01/08/-9141) 
 
 **SEXE :** Féminin
 
