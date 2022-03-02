@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Ganta Igarashi (*Deadman Wonderland*), Rena Ryûgûu (*Higurashi no naku koro ni*), Ken Kaneki (*Tokyo Ghoul*), Liver (*Akame Ga Kill!*)
 
-**NOTES :** Bimaï est actuellement l'un des personnages ayant accompagné Yuu jusqu'au sommet de la Tour, à l'étage 50.
+**NOTES :** Le dieu en lequel Bimaï croit et est la prêtresse est en réalité Rakanishu, l'Enfantique du Sang, auquel ses pouvoirs sont également affiliés. Bimaï est actuellement l'un des personnages ayant accompagné Yuu jusqu'au sommet de la Tour, à l'étage 50.
 
 `Anciennement joué par Sheele`
 
