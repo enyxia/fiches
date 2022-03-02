@@ -1,18 +1,18 @@
 # Christopher Teronnes, *Héros de guerre*
 
-**RACE :** humaine
+**RACE :** Humaine
 
-**ÂGE :** /
+**ÂGE :** 76 ans au décès (15/01/1891)
 
-**SEXE :** masculin
+**SEXE :** Masculin
 
 **ÉTAGE :** 6
 
-**STATUS :** en vie
+**STATUS :** En vie
 
-**SPÉCIALISATION :** duelliste
+**SPÉCIALISATION :** Duelliste
 
-**ARME :** canne-sabre
+**ARME :** **[TBA]** canne-sabre, Crépuscule, le révolver arcanique
 
 **TRAITS DE CARACTÈRE :** Il est d'une humeur joviale mais quand on parle de sa famille, il devient sérieux, mais après 1 à 2 pintes de bières, il redevient normal et se met à être un fêtard (il a l'alcool mauvais et se met à se marrer), il aime les expériences nouvelles et est prêt à tout pour les tester, il est courageux mais un petit peu fou.
 
@@ -20,9 +20,9 @@
 
 **POUVOIR :** aucun
 
-**INSPIRATIONS :** /
+**INSPIRATIONS :** Aucune
 
-**NOTES :** /
+**NOTES :** [TBA] Christopher est un vétéran et survivant de la guerre des 5 généraux.
 
 `Anciennement joué par RelGainSlide`
 
