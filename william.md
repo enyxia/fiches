@@ -1,14 +1,14 @@
 # William Cavalies, *Lumière jaune*
 
-**RACE :** humaine
+**RACE :** Humaine
 
-**ÂGE :** 15 ans (Mouais, il est censé avoir 34 ans là où on en est mais les cadavres ne vieillissent pas) (né le 15 février 1947)
+**ÂGE :** 19 ans au décès (né le 15 février 1947)
 
-**SEXE :** masculin
+**SEXE :** Masculin
 
 **ÉTAGE :** 2
 
-**STATUS :** laissé pour mort (étage 2)
+**STATUS :** En vie (S8)
 
 **SPÉCIALISATIONS :** duelliste
 
