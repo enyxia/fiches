@@ -2,7 +2,7 @@
 
 **RACE :** Hybride (Dragon-Humain)
 
-**ÂGE :** 20 ans
+**ÂGE :** 20 ans (30/11/1965)
 
 **SEXE :** Féminin
 
@@ -22,7 +22,7 @@
 
 **INSPIRATION :** Kanna Kamui (*Kobayashi-san chi no maid dragon*)
 
-**NOTES :** TBA
+**NOTES :** **[TBA]** Kanna Cavalies est la fille de Sheele Cavalies et d'Hanyûu Thatameth.
 
 `Anciennement joué par Sheele`
 
