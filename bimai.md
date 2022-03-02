@@ -14,7 +14,7 @@
 
 **ARMES :** L'arme de Bimaï est un parapluie de métal capable de tirer des boules énergétiques.
 
-**TRAITS DE CARACTÈRE :** Bimaï est toujours très calme. Elle parle peu, mais quand elle le fait, ses mots ont toujours une importance. Bien qu'elle soit une prêtresse, elle n'a pourtant aucune fois en une quelconque divinité. Bimaï n'hésite jamais à faire ce qu'elle a à faire, même si ça lui implique de devoir mourir. Elle est très proche d'Hanyûu Thatameth, qui a, pendant longtemps, remplacé, en quelques sortes, sa conscience.
+**TRAITS DE CARACTÈRE :** Bimaï est une personne assez énigmatique, toujours très calme et posée. Elle parle relativement peu, mais quand elle le fait, ses mots ont toujours une importance ou un sens. Bien qu'elle soit une prêtresse dévouée et extrêmement pieuse, elle n'hésite pas à souvent blasphémer ou dénigrer sa propre foi. Elle n'hésite jamais à faire ce qu'elle a à faire, même si ça signifie pour elle de se mettre en danger. Elle est très proche d'Hanyûu Thatameth, qui a, pendant longtemps, remplacé, en quelque sorte, sa conscience.
 
 **ASPECT PHYSIQUE :** Bimaï a les cheveux roux, a la peau très blanche et est plutôt grande, porte un kimono rose et des habits de prêtresse, yeux rouges.
 
