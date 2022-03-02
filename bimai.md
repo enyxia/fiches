@@ -18,7 +18,7 @@
 
 **ASPECT PHYSIQUE :** Bimaï est une femme de grande taille, dont la peau sensible d'un blanc reflétant le soleil contraste avec les cheveux roux incroyablement longs attachés d'abord en chignon s'échappent pour lui faire une queue de cheval. Bimaï porte le plus souvent une tenue de prêtresse Rakanishu tout ce qu'il y a de plus classique: un kimono rose aux motifs rouges représentant différentes fleurs et temps météorologique. Son habit est d'ailleurs un peu trop grand pour elle, se qui le fait souvent glisser, révélant ses épaules et le bas de son dos. Quand elle était petite, Bimaï était soupçonnée d'être une "fille des rubis" dû à ses yeux assortis à la couleur de ces pierres précieuses. La réalité est tout autre, Bimaï est née sans pigmentation de son iris, c'est donc son propre sang qui donne cette couleur rouge à ses yeux.
 
-**POUVOIR :** Bimaï possède l'habilité de manipuler le sang. Les limites de ces pouvoirs ne sont pas réellement définies.
+**POUVOIR :** Bimaï a la capacité de manipuler le sang. Les limites de ces pouvoirs ne sont pas réellement définies, mais nous savons qu'elle est capable de manipuler son propre sang, d'accélérer la guérison d'une blessure, d'absorber du sang et de, dans de très rares cas et sous des conditions strictes, l'extraire totalement d'un hôte.
 
 **INSPIRATIONS :** Ganta Igarashi (*Deadman Wonderland*), Rena Ryûgûu (*Higurashi no naku koro ni*), Ken Kaneki (*Tokyo Ghoul*), Liver (*Akame Ga Kill!*)
 
