@@ -1,5 +1,7 @@
 # Résumé rework
 
+![progress](https://progress-bar.dev/40/)
+
 | Nom fiche | Status |
 | --- | ----------- |
 | [Adamaï](./adamai.md) | ⚠ `Âge nul` |
