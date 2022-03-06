@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Banda-boy (*Darwin's Game*), Kashya (*Diablo II*), Kanna (*Inuyasha*), Lui Xuelan (*Darwin's Game*), Ramiel (*Neon genesis Evangelion*), Esdeath (*Akame ga kill*), Marijane (*Fairy Tail*), Megumin (*Kono Subarashi sekai no shukufuju wo!*), Évangéline (*Wakfu*), Maureen Cavalies (*Enyxia*), Alexia Cavalies (*Enyxia:Reborn 2, Enyxia*), Eden Everafter (*Genelya, Darcton*)
 
-**NOTES :** /
+**NOTES :** Kashya Hyrenya, de son vrai nom Kashya Cavalies, est le fruit de l'union de Maureen Mojito Cavalies et de Sheele Cavalies. Elle est la fille adoptive de Kashya Hyrenya. Lorsque Yuu et son groupe ont traversé son étage, elle les a laissé passé sans les accompagner jugeant la situation "trop critique pour des caprices". Elle finit également par reconnaitre Sheele comme son père, mais ne souhaite pas pour autant avoir plus de contact avec lui.
 
 `Anciennement joué par Sheele`
 
