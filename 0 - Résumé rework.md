@@ -20,7 +20,7 @@
 | [Enyxia](./enyxia.md) | ❓ `Pas lue / Aucun changements` |
 | [Extasia](./extasia.md) | ⚠ `Âge inconnu` |
 | [Gaia](./gaia.md) | ❓ `Pas lue / Aucun changements` |
-| [Gosutookami](./gosutookami.md) | ⚠ `Âge nul` |
+| [Gosutookami](./gosutookami.md) | ✅ `Valide` |
 | [Hanyûu](./hanyuu.md) | ❓ `Pas lue / Aucun changements` |
 | [Jessica](./jessica.md) | ❓ `TBA` |
 | [Kanna](./kanna.md) | ⚠ `TBA NOTES` |
