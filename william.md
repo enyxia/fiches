@@ -18,7 +18,7 @@
 
 **ASPECT PHYSIQUE :** William est un homme aux cheveux blonds, aux yeux bleus saphirs. Il est d'une taille assez petite et fait à peu près la même taille que Morgiana, sa petite sœur. Les vêtements qu'il porte, à savoir sa veste, son t-shirt, et sa cape, sont tous trois d'un blanc immaculé.  Son bas, lui est un pantalon noir qui semble venir d'un costume que l'on porterait lors d'obsèques. Il porte au cou le même collier que son frère Sheele, fabriqué par le même joaillier et offerte par sa mère pour ses quatre ans.
 
-**POUVOIR :** Lumière
+**POUVOIR :** William, au fil du temps et d'efforts faramineux, a appris à copier trois arcanes de l'Enfantique de la Lumière, bien que la puissance et le rayonnement de ces techniques, malgré tout cet acharnement, est minable en comparaison d'un affilié à la lumière.
 
 **INSPIRATIONS :** Hyakuya Mika (*Owari no Seraph*)
 
