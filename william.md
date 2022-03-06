@@ -10,7 +10,7 @@
 
 **STATUS :** En vie (S8)
 
-**SPÉCIALISATIONS :** duelliste
+**SPÉCIALISATIONS :** Duelliste
 
 **ARME :** Mathiarka (*L'épée de guerre*)
 
