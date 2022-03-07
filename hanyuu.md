@@ -22,7 +22,7 @@
 
 **INSPIRATION :** Hanyûu (*Higurashi no naku koro ni Kai*), Marisa Kirasame (*Touhou Projekt*)
 
-**NOTES :** **[TBA?]** Hanyûu Thatameth est la mère de Kanna Cavalies et est la troisième et dernière épouse de Sheele Cavalies. Hanyûu est actuellement l'un des personnages ayant accompagné Yuu jusqu'au sommet de la Tour, à l'étage 50.
+**NOTES :** Hanyûu Thatameth est la mère de Kanna Cavalies et est la troisième et dernière épouse de Sheele Cavalies. Elle s'est dévoué corps et âme à une prophétie d'un oracle infernal, qui lui prédisait "la naissance de Sheele Cavalies, qui la rendrait heureuse pour le reste de ses jours", cette prophétie s'est d'ailleurs avéré exacte. Hanyûu est également responsable du fait qu'Aliédad-Janna Cavalies et Nagoramatio Ariana-Fergonez soient incapables de vieillir, car ils ont bu son sang. Le sang de dragon primordial ralentit le vieillissement lorsqu'il est bu par un humain. Hanyûu est également une descendante directe de Thatameth, son ancêtre. Elle est actuellement l'un des personnages ayant accompagné Yuu jusqu'au sommet de la Tour, à l'étage 50.
 
 `Anciennement joué par Sheele`
 
