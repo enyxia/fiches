@@ -1,16 +1,16 @@
 # Enyxia Cavalies, *Enfant du monde*
 
-**RACE :** humaine
+**RACE :** Humaine
 
 **ÂGE :** 45 ans
 
-**SEXE :** féminin
+**SEXE :** Féminin
 
 **ÉTAGE :** 47
 
-**STATUS :** en vie
+**STATUS :** Assassinée par Yuu (S1-S3), En vie (S8)
 
-**SPÉCIALISATIONS :** assassin, duelliste
+**SPÉCIALISATIONS :** Assassin, Duelliste
 
 **ARME :** Konoshusame (*Lame d'éxécution*)
 
@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** /
 
-**NOTES :** /
+**NOTES :** TBA
 
 `Anciennement joué par Sheele`
 
