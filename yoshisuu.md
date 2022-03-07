@@ -1,28 +1,28 @@
 # Yoshisuu Cavalies, *Kaban*
 
-**RACE :** humaine
+**RACE :** Humaine
 
-**ÂGE :** /
+**ÂGE :** 19 ans au décès (née le 3 avril 1966)
 
-**SEXE :** féminin
+**SEXE :** Féminin
 
 **ÉTAGE :** 44
 
-**STATUS :** assassinée par Yuu (S6-S6)
+**STATUS :** Assassinée par Yuu (S6), Inconnu (S8)
 
-**SPÉCIALISATION :** assassin
+**SPÉCIALISATION :** Duelliste
 
-**ARME :** Konoshusame
+**ARME :** [TBA] Konoshusame
 
-**TRAITS DE CARACTÈRE :** /
+**TRAITS DE CARACTÈRE :** TBA HUGE
 
 **ASPECT PHYSIQUE :** Jeune femme aux cheveux noirs, au regard dur et verdâtre et de taille moyenne
 
-**POUVOIR :** /
+**POUVOIR :** **[TBA]** Le pouvoir de Yoshisuu est similaire à celui de sa mère
 
-**INSPIRATIONS :** /
+**INSPIRATIONS :** Akame (*Red Eyes Sword: Akame ga Kill!*), Kurome (*Red Eyes Sword: Akame ga Kill!*)
 
-**NOTES :** /
+**NOTES :** TBA HUGE
 
 `Anciennement joué par Sheele`
 
