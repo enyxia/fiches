@@ -6,7 +6,7 @@
 
 **SEXE :** Féminin
 
-**ÉTAGE :** /
+**ÉTAGE :** Dans la saison 8, Amalia ne possède pas d'étage qui lui est attitré.
 
 **STATUS :** Revenue à l'état d'essence. (Amalia étant à la base une invocation possédant une partie de la puissance de Sheele Cavalies, cette dernière est revenue en lui à sa mort. Cela dit, ça ne veut pas dire qu'Amalia est morte, étant donné que Sheele peut l'invoquer à n'importe quel moment.)
 
