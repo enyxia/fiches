@@ -18,7 +18,7 @@
 
 **ASPECT PHYSIQUE :** [TBA] Jeune femme blonde, aux yeux jaunes, de taille moyenne et vêtue de noir.
 
-**POUVOIRS :** [TBA] Controle du feu et des darkenings.
+**POUVOIRS :** En tant que dragon, il n'est pas surprenant qu'Hanyûu ait une maitrise impressionnante de la pyromancie. En revanche, il est bien plus surprenant qu'elle soit capable d'y mélanger la magie des ténèbres, car c'est une chose que peu de gens sont capable de faire. De plus, elle bénéficie d'un avantage biologique considérable, ayant une force surhumaine, une robustesse inouïe, une régénération de ses blessures impressionnante, une immunité au poison, ainsi qu'une insensibilité au contrecoup des magies impardonnables. Après tout, elle n'est pas humaine, tout ceci est moins surprenant en connaissance de cause. Toutefois, afin de procréer avec son aimé, Hanyûu semble avoir utilisé une magie modifiant son apparence. N'ayant pas reproduit l'exercice, il est impossible de savoir quelle est sa maitrise de la magie polymorphique.
 
 **INSPIRATION :** Hanyûu (*Higurashi no naku koro ni Kai*), Marisa Kirasame (*Touhou Projekt*)
 
