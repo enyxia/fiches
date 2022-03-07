@@ -22,7 +22,7 @@
 
 **INSPIRATION :** Hanyûu (*Higurashi no naku koro ni Kai*), Marisa Kirasame (*Touhou Projekt*)
 
-**NOTES :** TBA
+**NOTES :** **[TBA?]** Hanyûu Thatameth est la mère de Kanna Cavalies et est la troisième et dernière épouse de Sheele Cavalies. Hanyûu est actuellement l'un des personnages ayant accompagné Yuu jusqu'au sommet de la Tour, à l'étage 50.
 
 `Anciennement joué par Sheele`
 
