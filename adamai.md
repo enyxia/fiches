@@ -2,7 +2,7 @@
 
 **RACE :** Humaine
 
-**ÂGE :** /
+**ÂGE :** 20 ans (né le 9 août 1965)
 
 **SEXE :** Masculin
 
@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** /
 
-**NOTES :** /
+**NOTES :** TBA
 
 `Anciennement joué par Sheele`
 
