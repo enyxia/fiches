@@ -18,7 +18,7 @@
 
 **ASPECT PHYSIQUE :** Asarim est taille moyenne (~1m65). Ses cheveux sont d'une couleur assez sombre, une mèche cache l'un de ses petits yeux d'un vert à peine repérable. Il porte très souvent une veste d'un bleu a peine visible, sur un t-shirt d'une couleur assez sombre.
 
-**POUVOIR :** TBA
+**POUVOIR :** Le pouvoir d'Asarim est à la fois affilié à la divinité Firone, déité du Bois, et à la divinité de la Nature, Hyvernn. Pour faire simple, Asarim a la possibilité de manipuler tout type de bois ou de verdure à sa volonté dans un périmètre défini autour de lui. Ce pouvoir est indépendant de sa vue.
 
 **INSPIRATIONS :** Asarim et Firone (*The Legend of Zelda*), Ivor (*Minecraft: Story Mode*)
 
