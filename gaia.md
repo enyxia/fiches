@@ -2,7 +2,7 @@
 
 **RACE :** "Enfantique"
 
-**ÂGE :** 04/04/
+**ÂGE :** 7 ans au décès (04/04/1958)
 
 **SEXE :** Dû à sa condition d'Enfantique, Gaia n'a pas de sexe défini, bien que son apparence soit masculine.
 
