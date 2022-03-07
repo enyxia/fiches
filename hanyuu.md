@@ -1,28 +1,28 @@
 # Hanyûu Thatameth, *Dragonne humanisée*
 
-**RACE :** dragon
+**RACE :** Dragon Primordial
 
-**ÂGE :** /
+**ÂGE :** 12946 ans au décès (02/06/-10963)
 
-**SEXE :** féminin
+**SEXE :** Féminin
 
 **ÉTAGE :** 45
 
-**STATUS :** assassinée par Gaia (S1-S1) / assassinée par Yuu (S5-S7)
+**STATUS :** assassinée par Gaia (S1), Assassinée par Yuu (S5-S7), En vie (S8)
 
-**SPÉCIALISATIONS :** duelliste, assassin
+**SPÉCIALISATIONS :** Duelliste, Assassin
 
-**ARMES :** parapluie de Bimaï, magie
+**ARMES :** L'arme d'Hanyûu est en fait celle de Bimaï, un parapluie de métal capable de tirer des boules énergétiques.
 
-**TRAITS DE CARACTÈRE :** /
+**TRAITS DE CARACTÈRE :** TBA
 
-**ASPECT PHYSIQUE :** Jeune femme blonde, aux yeux jaunes, de taille moyenne et vêtue de noir.
+**ASPECT PHYSIQUE :** [TBA] Jeune femme blonde, aux yeux jaunes, de taille moyenne et vêtue de noir.
 
-**POUVOIRS :** Controle du feu et des darkenings.
+**POUVOIRS :** [TBA] Controle du feu et des darkenings.
 
-**INSPIRATION :** Hanyûu (*Higurashi no naku koro ni Kai*)
+**INSPIRATION :** Hanyûu (*Higurashi no naku koro ni Kai*), Marisa Kirasame (*Touhou Projekt*)
 
-**NOTES :** /
+**NOTES :** TBA
 
 `Anciennement joué par Sheele`
 
