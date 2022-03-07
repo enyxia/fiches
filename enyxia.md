@@ -2,7 +2,7 @@
 
 **RACE :** Humaine
 
-**ÂGE :** 45 ans
+**ÂGE :** 45 ans (née le 1 janvier 1940)
 
 **SEXE :** Féminin
 
@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** /
 
-**NOTES :** TBA
+**NOTES :** Enyxia est la seconde fille et seconde enfant d'Alexia Deandal Cavalies et de Veldo Cavalies. Ses frères et sœurs sont Sheele, Yuu, William et Morgiana Cavalies. Enyxia et Yuu sont deux sœurs jumelles nées à une minute d'intervalle. La véritable identité d'Enyxia est en réalité Yuu Enyxia Cavalies, elle avait en réalité interchangé son nom avec celui de sa sœur. Elle a refusé d'accompagner le groupe de Yuu jusqu'au dernier étage, mais les as tout de même averti que les propriétaires des étages 49 et 50 étaient extrêmement dangereux, révélant par ailleurs leurs identités à son frère Sheele.
 
 `Anciennement joué par Sheele`
 
