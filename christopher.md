@@ -12,7 +12,7 @@
 
 **SPÉCIALISATION :** Duelliste
 
-**ARME :** **[TBA]** canne-sabre, Crépuscule, le révolver arcanique
+**ARME :** Christopher utilise sa canne d'appui, dans laquelle une lame est dissimulée. Il utilise également Crépuscule, un révolver arcanique qui lui a été offert par le Dernier Enchanteur, Andreas Teronnes.
 
 **TRAITS DE CARACTÈRE :** Christopher est une personne d'une humeur souvent joviale. Cependant, il ne supporte pas que l'on parle en mal de sa famille, devenant sérieux. Toutefois, après 2 à 3 pintes de bière, il revient à la normale et devient un insupportable et irrépréhensible fêtard , ayant l'alcool mauvais et tendance à en faire trop, allant jusqu'à moquer ses compères. Il aime les expériences nouvelles et est souvent prêt à tout pour les tester. Après avoir survécu à la guerre des 5 généraux, les traumatismes ont peu à peu supprimé sa capacité à ressentir le danger, ce qui lui donne un air courageux, mais c'est en réalité de la folie, bien qu'il maintienne un contrôle admirable sur son état mental.
 
