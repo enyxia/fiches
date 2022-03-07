@@ -4,14 +4,14 @@
 
 | Nom fiche | Status |
 | --- | ----------- |
-| [Adamaï](./adamai.md) | ⚠ `Âge nul` |
+| [Adamaï](./adamai.md) | ⚠ `TBA NOTES` |
 | [Akuma](./akuma.md) | ✅ `Valide` |
 | [Alexia](./alexia.md) | ✅ `Valide` |
 | [Aliédad](./aliedad.md) | ✅ `Valide` |
-| [Amalia](./amalia.md) | ⚠ `Étage nul` |
+| [Amalia](./amalia.md) | ✅ `Valide` |
 | [Andrea](./andrea.md) | ✅ `Valide` |
 | [Anoriel](./anoriel.md) | ✅ `Valide` |
-| [Asarim](./asarim.md) | ⚠ `Pouvoirs en TBA` |
+| [Asarim](./asarim.md) | ✅ `Valide` |
 | [Atalante](./atalante.md) | ✅ `Valide` |
 | [Bimaï](./bimai.md) | ✅ `Valide` |
 | [Christopher](./christopher.md) | ⚠ `Arme et Notes TBA` |
@@ -21,7 +21,7 @@
 | [Extasia](./extasia.md) | ⚠ `Âge inconnu` |
 | [Gaia](./gaia.md) | ❓ `Pas lue / Aucun changements` |
 | [Gosutookami](./gosutookami.md) | ✅ `Valide` |
-| [Hanyûu](./hanyuu.md) | ❓ `Pas lue / Aucun changements` |
+| [Hanyûu](./hanyuu.md) | ⚠ `Notes TBA, TDC TBA` |
 | [Jessica](./jessica.md) | ❓ `TBA` |
 | [Kanna](./kanna.md) | ⚠ `TBA NOTES` |
 | [Karma](./karma.md) | ❓ `TBA` |
