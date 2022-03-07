@@ -1,6 +1,6 @@
 # Résumé rework
 
-![progress](https://progress-bar.dev/40/)
+![progress](https://progress-bar.dev/46/)
 
 | Nom fiche | Status |
 | --- | ----------- |
@@ -27,7 +27,7 @@
 | [Karma](./karma.md) | ❓ `TBA` |
 | [Kashya](./kashya.md) | ✅ `Valide` |
 | [Kass](./kass.md) | ⚠ `Pas de pouvoirs` |
-| [Kei](./kei.md) | ⚠ `Pouvoir nul` |
+| [Kei](./kei.md) | ⚠ `Notes nulles` |
 | [Kudo](./kudo.md) | ✅ `Valide` |
 | [Kuyu](./kuyu.md) | ✅ `Valide` |
 | [Mahito](./mahito.md) | ✅ `Valide` |
