@@ -2,7 +2,7 @@
 
 **RACE :** humaine
 
-**ÂGE :** 38 ans (né le 4 janvier 1915)
+**ÂGE :** 59 ans au décès (né le 4 janvier 1900)
 
 **SEXE :** masculin
 
