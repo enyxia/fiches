@@ -2,13 +2,13 @@
 
 **RACE :** Humaine
 
-**ÂGE :** 76 ans au décès (15/01/1891)
+**ÂGE :** 76 ans au décès (né le 15 janvier 1891)
 
 **SEXE :** Masculin
 
 **ÉTAGE :** 6
 
-**STATUS :** En vie
+**STATUS :** Décédé (S1), En vie (S8)
 
 **SPÉCIALISATION :** Duelliste
 
