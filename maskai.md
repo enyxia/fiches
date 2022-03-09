@@ -2,7 +2,7 @@
 
 **RACE :** humaine
 
-**ÂGE :** /
+**ÂGE :** TBA
 
 **SEXE :** masculin
 
