@@ -1,8 +1,8 @@
 # KuYu Cavalies, *Pierre des Enfantiques*
 
-**RACE :** enfantique
+**RACE :** Enfantique
 
-**ÂGE :** 16 ans (né le 4 avril 1964)
+**ÂGE :** 11 ans (né le 4 avril 1969)
 
 **SEXE :** masculin
 
