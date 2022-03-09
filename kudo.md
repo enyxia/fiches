@@ -2,7 +2,7 @@
 
 **RACE :** Enfantique
 
-**ÂGE :** Inconnu
+**ÂGE :** Dû à la grande longévité des Enfantiques, l'âge de Kudo est indéterminable 
 
 **SEXE :** Les Enfantiques n'ont pas de sexe défini, mais Kudo est d'apparence masculine.
 
