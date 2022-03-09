@@ -16,7 +16,7 @@
 
 **TRAITS DE CARACTÈRE :** Il parait que Marla est une peste, elle est froide et est peu patiente. Toutefois, en combat, elle est très différente : Calme, réfléchie et puissante, elle est très réactive et est très efficace lorsqu'elle agit avec son père adoptif (Anoriel). Il peut lui arriver de devenir légèrement folle et est obsédée par le fait de trancher et congeler.
 
-**ASPECT PHYSIQUE :** Marla est une petite fille aux cheveux bleu océan, elle porte le plus souvent une robe assortie à cette couleur, mais avec des nuances plus sombres. Ses yeux peuvent passer du bleu au rouge quand elle use de ses pouvoirs.
+**ASPECT PHYSIQUE :** Marla est une petite fille de très petite taille, portant une robe précieuse d'un bleu océan très profond. Ses cheveux sont bruns avec des reflets bleutés, mettant en valeur ses yeux scintillant aux couleurs de l'aqua marine. Ses vêtements, en dehors de sa robe, sont relativement sobres : un simple haut blanc en dessous de la tunique et une paire de mitaines noires pour éviter les ampoules aux mains. Elle porte des bottes noires rembourrées, car elles sont tout simplement trop grandes pour elle. Marla est le plus souvent vue avec ses cheveux courts en bataille, ne prenant presque jamais le temps de se coiffer. Lorsqu'elle use de ses pouvoirs, ses yeux rougissent et se mettent à briller dans l'obscurité.
 
 **POUVOIR :** Marla est capable de manipuler la glace à condition qu'elle ait de l'eau à proximité.
 
