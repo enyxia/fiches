@@ -2,7 +2,7 @@
 
 **RACE :** humaine
 
-**ÂGE :** /
+**ÂGE :** 11124 ans au décès (né 25 mars -9141)
 
 **SEXE :** masculin
 
