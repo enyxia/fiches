@@ -2,7 +2,7 @@
 
 **RACE :** Pseudo-Enfantique
 
-**ÂGE :** 24 ans au décès (né le 4 avril 1969)
+**ÂGE :** 16 ans au décès (né le 4 avril 1969)
 
 **SEXE :** masculin
 
