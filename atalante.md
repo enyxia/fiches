@@ -2,7 +2,7 @@
 
 **RACE :** Humaine
 
-**ÂGE :** 11136 ans (28/01/-9151)
+**ÂGE :** 11136 ans (née le 28 janvier -9151)
 
 **SEXE :** Féminin
 
