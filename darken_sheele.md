@@ -2,7 +2,7 @@
 
 **RACE :** Invocation élémentaire
 
-**ÂGE :** 26 ans
+**ÂGE :** 16 ans au décès (né le 14 juillet 1967)
 
 **SEXE :** Masculin
 
