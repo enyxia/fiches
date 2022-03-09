@@ -2,7 +2,7 @@
 
 **RACE :** clone
 
-**ÂGE :** 40 ans 
+**ÂGE :** TBA
 
 **SEXE :** masculin
 
