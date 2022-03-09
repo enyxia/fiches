@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** /
 
-**NOTES :** TBA
+**NOTES :** Adamaï accompagne Yuu et est le seul à avoir tenté de s'en rapprocher, se souciant de sa santé. Il est l'un des combattants de l'étage 49, auquel il ne survivra pas.
 
 `Anciennement joué par Sheele`
 
