@@ -2,7 +2,7 @@
 
 **RACE :** humaine
 
-**ÂGE :** /
+**ÂGE :** L'âge d'Extasia est inconnu, toutefois, il semblerait qu'elle soit dans sa trentaine.
 
 **SEXE :** féminin
 
