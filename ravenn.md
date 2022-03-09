@@ -1,8 +1,8 @@
 # Ravenn Cavalies, *Incarnation de la mort*
 
-**RACE :** enfantique
+**RACE :** Enfantique
 
-**ÂGE :** 25 ans (né le 24 décembre 1959)
+**ÂGE :** Dû à la grande longévité des Enfantiques, l'âge de Ravenn est indéterminable. Elle serait cependant née un 24 décembre.
 
 **SEXE :** féminin
 
