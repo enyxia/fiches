@@ -2,7 +2,7 @@
 
 **RACE :** Hybride (Dragon-Humain)
 
-**ÂGE :** 20 ans (30/11/1965)
+**ÂGE :** 20 ans (née le 30 novembre 1965)
 
 **SEXE :** Féminin
 
