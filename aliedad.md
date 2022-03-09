@@ -2,7 +2,7 @@
 
 **RACE :** Humaine
 
-**ÂGE :** 11126 ans (01/08/-9141) 
+**ÂGE :** 11126 ans au décès (née le 1er août -9141) 
 
 **SEXE :** Féminin
 
