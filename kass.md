@@ -1,10 +1,10 @@
 # Kass Horton, *Voyageuse*
 
-**RACE :** humaine
+**RACE :** Humaine
 
-**ÂGE :** 42 ans
+**ÂGE :** 42 ans (née le 2 janvier 1943)
 
-**SEXE :** féminin
+**SEXE :** Féminin
 
 **ÉTAGE :** 48
 
