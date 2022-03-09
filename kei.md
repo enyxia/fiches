@@ -1,8 +1,8 @@
 # Kei Hyrenya, *Épéiste*
 
-**RACE :** humaine
+**RACE :** Humaine
 
-**ÂGE :** 30 ans
+**ÂGE :** 30 ans au décès (né le 10 février 1953)
 
 **SEXE :** masculin
 
@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Alibaba (Magi: The Labyrinth of Magic), Maebara Keichi (Higurashi no naku koro ni), Sparadrap (Noob), Edwige (Seuls)
 
-**NOTES :**
+**NOTES :** TBA
 
 `Anciennement joué par Sheele`
 
