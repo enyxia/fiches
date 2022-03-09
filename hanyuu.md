@@ -2,7 +2,7 @@
 
 **RACE :** Dragon Primordial
 
-**ÂGE :** 12946 ans au décès (02/06/-10963)
+**ÂGE :** 12946 ans au décès (née le 02 juin -10963)
 
 **SEXE :** Féminin
 
