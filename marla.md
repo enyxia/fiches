@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Yoshino (Date A Live), Kohina Hiruko (Black Bullet), Esdeath (Akame ga Kill!), Enyxia Cavalies (Enyxia), Katara (Avatar: The Last Airbender)
 
-**NOTES :** /
+**NOTES :** Andrea et Marla sont deux soeurs jumelles, bien qu'elles soient nées à deux jours d'intervalle. Marla est l'enfant aurait du permettre à Enyxia de renaître en saison 6, mais cette "réincarnation" ne s'est jamais produite. Actuellement, elle est l'une des personnes ayant accompagné Yuu au sommet de la tour, à l'étage 50.
 
 `Anciennement joué par Sheele`
 
