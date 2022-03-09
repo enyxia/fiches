@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Aucune
 
-**NOTES :** [TBA] Christopher est un vétéran et survivant de la guerre des 5 généraux.
+**NOTES :** Christopher est un vétéran et survivant de la guerre des 5 généraux. Il était l'un des cinq généraux durant cette guerre, aux cotés, ou plutôt, confronté à Atalaï Hitch, Krumas Morgiane, Alexia Deandal et Veldo Cavalies. Il est par ailleurs le dernier survivant de ce groupe très restreint. Au cours de son étage, Christopher réussira à aider Yuu à se confesser. Il est actuellement toujours à l'étage 6, n'ayant pas souhaité se battre plus qu'il ne l'avait déjà fait durant sa longue vie.
 
 `Anciennement joué par RelGainSlide`
 
