@@ -2,7 +2,7 @@
 
 **RACE :** Dragonophorme
 
-**ÂGE :** Inconnu
+**ÂGE :** TBA
 
 **SEXE :** Féminin
 
