@@ -32,7 +32,7 @@
 | [Kuyu](./kuyu.md) | ✅ `Valide` |
 | [Mahito](./mahito.md) | ✅ `Valide` |
 | [Marla](./marla.md) | ✅ `Valide` |
-| [Maskaï](./maskai.md) | ❓ `Pas lue / Aucun changements` |
+| [Maskaï](./maskai.md) | ⚠ `AGE TBA` |
 | [Math](./math.md) | ✅ `Valide` |
 | [MathSpirit](./mathspirit.md) | ✅ `Valide` |
 | [Matthias](./matthias.md) | ✅ `Valide` |
@@ -40,7 +40,7 @@
 | [Midoraï](./midorai.md) | ⚠ `Spécialisations nulles, arme nulle, TDC nuls` |
 | [Morgiana](./morgiana.md) | ❓ `Pas lue / Aucun changements` |
 | [Nerias](./nerias.md) | ⚠ `AGE TBA` |
-| [Nikolaï](./nikolai.md) | ❓ `Pas lue / Aucun changements` |
+| [Nikolaï](./nikolai.md) | ⚠ `AGE TBA` |
 | [Nagoramatio](./nagoramatio.md) | ⚠ `aspect nul` |
 | [Raizan](./raizan.md) | ✅ `Valide` |
 | [Ravenn](./ravenn.md) | ⚠ `Étage nul, status nul` |
