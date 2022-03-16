@@ -1,6 +1,6 @@
 # Résumé rework
 
-![progress](https://progress-bar.dev/46/)
+![progress](https://progress-bar.dev/56/)
 
 | Nom fiche | Status |
 | --- | ----------- |
