@@ -8,7 +8,7 @@
 
 **ÉTAGE :** 22
 
-**STATUS :** en vie
+**STATUS :** Décédé (S5), Décédé à l'Étage 49 de la Tour Infinie (S8)
 
 **SPÉCIALISATIONS :** duelliste, mage
 
