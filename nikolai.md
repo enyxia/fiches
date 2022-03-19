@@ -1,18 +1,18 @@
 # Nikolaï Hitch, *Roi Enyxien*
 
-**RACE :** humaine
+**RACE :** Humaine
 
 **ÂGE :** 34 ans au décès (né le 19 septembre 1949)
 
-**SEXE :** masculin
+**SEXE :** Masculin
 
 **ÉTAGE :** 22
 
 **STATUS :** Décédé (S5), Décédé à l'Étage 49 de la Tour Infinie (S8)
 
-**SPÉCIALISATIONS :** duelliste, mage
+**SPÉCIALISATIONS :** Duelliste, Mage
 
-**ARME :** invocations
+**ARME :** Nikolaï utilise ses invocations comme arme.
 
 **TRAITS DE CARACTÈRE :** Nikolai Hitch est un grand manipulateur. Il est d'ailleurs très doué pour mentir pour tout et n'importe quoi. Le problème, c'est qu'avec le temps, il est devenu un menteur pathologique, et s'est mis à croire en ses propres mensonges. Ainsi, lorsqu'il a certifié être l'héritier du défunt Roi Asher IV, Il l'est réellement devenu. Nikolaï ne sait plus qui il est, et s'est rangé du côté de la cruauté, du pouvoir et des conflits car c'était pour lui le seul moyen de se sentir vivant. Son haut-fait le plus conséquent grâce à cette position et ses mensonges a été de prendre le contrôle pendant un temps de Darken Sheele Cavalies, qui a été un atout majeur pour désorganiser les troupes des révolutionnaires.
 
