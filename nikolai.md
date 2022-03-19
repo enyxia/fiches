@@ -18,11 +18,11 @@
 
 **ASPECT PHYSIQUE :** Nikolaï porte le plus souvent un masque blancs aux traits durs et souriant de cruauté, soi-disant par habitude. La réalité est tout autre. Ce masque vise surtout à intimider les politiques qui l'opposeraient. Il porte le plus souvent une cape grise qui dissimule des épais et couteux vêtements diplomatiques. Sous le masque, le visage de Nikolaï est quelque peu particulier. Déjà, son teint plaintéen était peu commun parmi les nobles de la capitale. Ensuite, il avait une énorme balafre sur l'oeil droit, oeil qui était par ailleurs devenu aveugle suite à l'infection de cette blessure infligée par son "frère" Midoraï Hitch. Le temps n'a pas été très tendre avec lui, son visage semblait être celui d'un sexagénaire, alors qu'il a à peine 35 ans.
 
-**POUVOIR :** Nikolaï a le pouvoir d'invoquer des créatures temporairement en l'échange d'une partie de son mana.
+**POUVOIR :** Nikolaï a la capacité d'invoquer ou de contrôler des créatures temporairement en l'échange d'une partie de son énergie vitale, ce qui accélère grandement son vieillissement.
 
-**INSPIRATION :** Vector (Resident Evil: Revelations)
+**INSPIRATION :** Jhin (*League of Legends*)
 
-**NOTES :** /
+**NOTES :** Nikolaï est l'un des combattants de l'étage 49, auquel il ne survivra pas.
 
 `Anciennement joué par Sheele`
 
