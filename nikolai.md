@@ -2,7 +2,7 @@
 
 **RACE :** humaine
 
-**ÂGE :** TBA
+**ÂGE :** 34 ans au décès (né le 19 septembre 1949)
 
 **SEXE :** masculin
 
