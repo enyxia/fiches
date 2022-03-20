@@ -1,16 +1,16 @@
 # Sheele Cavalies, *Demi-Enfantique*
 
-**RACE :** hybride
+**RACE :** Autrefois humain, Sheele est désormais un hybride entre un humain, un dragon primordial, un Enfantique et un Dieu.
 
-**ÂGE :** 40 ans (né le 5 septembre 1945)
+**ÂGE :** 32 ans au décès (né le 5 septembre 1945)
 
-**SEXE :** masculin
+**SEXE :** Masculin
 
 **ÉTAGE :** 8
 
-**STATUS :** assassiné par Yuu (S1-S3)
+**STATUS :** Décédé (S1-S3), Inconnu (S8)
 
-**SPÉCIALISATIONS :** toutes
+**SPÉCIALISATIONS :** Toutes
 
 **ARME :** Atalante (*Faux des deux déchus*)
 
@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Sheele (*Akame ga kill!*)
 
-**NOTES :** /
+**NOTES :**  Sheele est le premier fils et troisième enfant d'Alexia Deandal Cavalies et de Veldo Cavalies. Ses frères et sœurs sont William, Yuu, Enyxia et Morgiana Cavalies. Sheele est l'un des combattants de l'étage 49, épaulant William Cavalies, Darken Sheele Cavalies, Gaia, Amalia Hyvernn et Atalante Genesis dans un combat à mort contre l'Enfantique Kudo. Il est inconnu si Sheele a survécu au combat.
 
 `Anciennement joué par Sheele`
 
