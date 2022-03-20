@@ -18,7 +18,7 @@
 
 **ASPECT PHYSIQUE :** Jeune homme aux cheveux nours, au regard dur et verdâtre et de taille moyenne prêtant toujours une veste de fourure.
 
-**POUVOIRS :** Changer de forme pour être plus puissant, contrôler les éléments, doubler sa puissance à la mort d'un proche 
+**POUVOIRS :** Sheele possède de nombreux pouvoirs, dont aucun n'est inné. Ces pouvoirs, ayant été fourni par sa mère et par les sept seaux de sang, on fait de lui la légende qu'on connait aujourd'hui. Tout d'abord, il est capable d'utiliser la magie des ténèbres sans s'empoisonner. Ensuite, il est capable de controler chacun des cinq éléments primordiaux avec une maitrise proche de celle d'un Enfantique. Et enfin, son dernier pouvoir, et non des moindres, lui permet de changer de forme pour devenir plus puissant. Il possède 4 formes distinctes. La première, appelée "Renegat", le rend beaucoup plus agile et précis, sous cette forme, Sheele dématérialise le plus souvent Atalante pour utiliser deux sabres. La seconde, appelée "Assassin", échange les fameux sabres pour une large hallebarde d'exécuteur, changeant drastiquement toutes ses techniques de combat. La troisième, appelée "Sombrale", lui rends sa faux iconique, mais la rends bien plus dangereux. En effet, cette forme sature le corps de Sheele de Ténèbres, ce qui insuffle cette magie à la lame d'Atalante, ce qui la rends enduite de ce qui est probablement le poison le plus mortel et dangereux au monde. Son ultime forme, elle, augmente considérablement la puissance de chacun de ses éléments.
 
 **INSPIRATIONS :** Sheele (*Akame ga kill!*)
 
