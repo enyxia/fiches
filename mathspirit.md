@@ -26,4 +26,4 @@
 
 `Anciennement joué par MathSky`
 
-![image](https://enyxia.alkanife.fr/images/characters/mathspirit.png)
+![image](https://data.enyxia.fr/images/characters/mathspirit.png)

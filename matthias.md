@@ -26,4 +26,4 @@
 
 `Anciennement joué par Izzumaki`
 
-![image](https://enyxia.alkanife.fr/images/characters/matthias.png)
+![image](https://data.enyxia.fr/images/characters/matthias.png)

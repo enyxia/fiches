@@ -26,4 +26,4 @@
 
 `Anciennement joué par KuYuDo`
 
-![image](https://enyxia.alkanife.fr/images/characters/kudo.png)
+![image](https://data.enyxia.fr/images/characters/kudo.png)

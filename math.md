@@ -26,4 +26,4 @@
 
 `Anciennement joué par FateHard`
 
-![image](https://enyxia.alkanife.fr/images/characters/math.png)
+![image](https://data.enyxia.fr/images/characters/math.png)

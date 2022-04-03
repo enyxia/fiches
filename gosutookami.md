@@ -26,4 +26,4 @@
 
 `Anciennement joué par MathSky`
 
-![image](https://enyxia.alkanife.fr/images/characters/gosutookami.png)
+![image](https://data.enyxia.fr/images/characters/gosutookami.png)

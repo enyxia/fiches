@@ -26,4 +26,4 @@
 
 `Anciennement joué par Jeffaria`
 
-![image](https://enyxia.alkanife.fr/images/characters/raizan.png)
+![image](https://data.enyxia.fr/images/characters/raizan.png)

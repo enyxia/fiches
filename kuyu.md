@@ -26,4 +26,4 @@
 
 `Anciennement joué par Sheele`
 
-![image](https://enyxia.alkanife.fr/images/characters/kuyu.png)
+![image](https://data.enyxia.fr/images/characters/kuyu.png)

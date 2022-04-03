@@ -26,4 +26,4 @@
 
 `Anciennement joué par /`
 
-![image](https://enyxia.alkanife.fr/images/characters/alexia.png)
+![image](https://data.enyxia.fr/images/characters/alexia.png)

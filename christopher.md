@@ -26,4 +26,4 @@
 
 `Anciennement joué par RelGainSlide`
 
-![image](https://enyxia.alkanife.fr/images/characters/christopher.png)
+![image](https://data.enyxia.fr/images/characters/christopher.png)

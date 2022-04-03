@@ -26,4 +26,4 @@
 
 `Anciennement joué par Izzumaki`
 
-![image](https://enyxia.alkanife.fr/images/characters/tidus.png)
+![image](https://data.enyxia.fr/images/characters/tidus.png)

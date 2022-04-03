@@ -26,4 +26,4 @@
 
 `Anciennement joué par Hypix`
 
-![image](https://enyxia.alkanife.fr/images/characters/asarim.png)
+![image](https://data.enyxia.fr/images/characters/asarim.png)

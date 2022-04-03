@@ -26,4 +26,4 @@
 
 `Anciennement joué par Hypix`
 
-![image](https://enyxia.alkanife.fr/images/characters/kass.png)
+![image](https://data.enyxia.fr/images/characters/kass.png)

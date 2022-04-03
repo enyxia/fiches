@@ -26,4 +26,4 @@
 
 `Anciennement joué par MathSky`
 
-![image](https://enyxia.alkanife.fr/images/characters/mahito.png)
+![image](https://data.enyxia.fr/images/characters/mahito.png)

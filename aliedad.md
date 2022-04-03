@@ -26,4 +26,4 @@
 
 `Anciennement joué par Fate`
 
-![image](https://enyxia.alkanife.fr/images/characters/aliedad.png)
+![image](https://data.enyxia.fr/images/characters/aliedad.png)
