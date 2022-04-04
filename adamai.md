@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Aucune
 
-**NOTES :** Adamaï accompagne Yuu et est le seul à avoir tenté de s'en rapprocher, se souciant de sa santé. Il est l'un des combattants de l'étage 49, auquel il ne survivra pas.
+**NOTES :** Adamaï accompagne Yuu et est le seul à avoir tenté de s'en rapprocher, se souciant de sa santé. Il est l'un des combattants de l'étage 49, auquel il ne survivra pas. Son style de combat s'inspirait des techniques d'Atalaï Hitch, celui là même qui avait tué une multitude d'Enfantiques au cours de la guerre des cinq généraux.
 
 `Anciennement joué par Sheele`
 
