@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** /
 
-**NOTES :** Dans la saison 8, Akuma est le seul personnage à avoir refusé d'accompagner le groupe de Yuu pour des raisons autres que la peur ou la haine. Il a simplement refusé par principe. "Je ne me bat pas main dans la main avec un ennemi". Il a refusé de faire exception à ce dogme personnel malgré la gravité de la situation. Il se trouve actuellement toujours à son étage.
+**NOTES :** Dans la saison 8, Akuma est le seul personnage à avoir refusé d'accompagner le groupe de Yuu pour des raisons autres que la peur ou la haine. Il a simplement refusé par principe. "Je ne me bat pas main dans la main avec un ennemi". Il a refusé de faire exception à ce dogme personnel malgré la gravité de la situation. En réalité, la raison principale de son refus est l'assassinat de sa famille adoptive. Il se trouve actuellement toujours à son étage.
 
 `Anciennement joué par Sheele`
 
