@@ -22,7 +22,7 @@
 
 **INSPIRATIONS :** Aucune
 
-**NOTES :** Alexia Cavalies est l'épouse de Veldo Cavalies et est la mère de 5 enfants : Enyxia, Yuu, Sheele, William et Morgiana Cavalies. Elle est morte en protégeant ses enfants du démon Asmodan, sans grand succès. Alexia a transmi énormément de pouvoirs à chacun de ses enfants, afin qu'ils puissent en tout cas se défendre.
+**NOTES :** Alexia Cavalies est l'épouse de Veldo Cavalies et est la mère de 5 enfants : Enyxia, Yuu, Sheele, William et Morgiana Cavalies. Elle est morte en protégeant ses enfants du démon Asmodan, sans grand succès. Alexia a transmis énormément de pouvoirs à chacun de ses enfants, afin qu'ils puissent en tout cas se défendre. Elle a notamment offert à Sheele la capacité de décupler sa force, à Yuu la capacité d'absorber la force, à Enyxia le contrôle mental et à William, bien qu'il ne le remarqua que bien plus tard, a reçu le pouvoir de manipuler la lumière. La seule de ses enfants à n'avoir reçu aucun pouvoir est Morgiana, car elles ont été séparées avant le quatrième anniversaire de cette dernière.
 
 `Anciennement joué par /`
 
