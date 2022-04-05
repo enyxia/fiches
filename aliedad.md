@@ -12,7 +12,7 @@
 
 **SPÉCIALISATION :** Mage Soutenant
 
-**ARME :** Magie
+**ARME :** Aliédad étant la plus grande aéromancienne de tous les temps, elle ne ressent pas la nécessité d'utiliser une arme autre que sa propre magie.
 
 **TRAITS DE CARACTÈRE :** Aliédad est une personne pacifique, elle cherchera le plus souvent à esquiver le conflit, et ne se lancera dans l'un d'entre eux que si le jeu en vaut la chandelle. Étant de nature bienheureuse, malgré un long passé semé d'embuches, elle sourit énormément, et rit souvent aux plaisanteries, et ce, de quelque nature qu'elle soit. Grâce à ça, les personnes qui la connaissent la définissent comme un "bon public". Aliédad n'est pas quelqu'un de spécialement intelligent, mais elle est toutefois compétente et en a conscience. Elle est également très curieuse, ce qui a tendance à parfois lui faire manquer de tact et la rendre imprudente. On la soupçonne de n'avoir aucune peur, car elle n'hésite pas à aller dans des endroits dangereux et effrayants just pour découvrir ce qu'il s'y cache. Des quatres survivants de la Première Grande Guerre Enyxienne, Aliédad semble être la seconde, avec Hanyûu Thatameth, à avoir vaincu la totalité de ses traumas des sentiers de la gloire militaire pour devenir une meilleure personne. 
 
