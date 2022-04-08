@@ -2,7 +2,7 @@
 
 **RACE :** Humaine
 
-**ÂGE :** 27 ans (née le 13 décembre 1956)
+**ÂGE :** 24 ans au décès (née le 13 décembre 1959)
 
 **SEXE :** Féminin
 
