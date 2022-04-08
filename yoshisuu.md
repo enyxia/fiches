@@ -2,7 +2,7 @@
 
 **RACE :** Humaine
 
-**ÂGE :** 19 ans au décès (née le 3 avril 1966)
+**ÂGE :** 19 ans au décès (née le 3 avril 1967)
 
 **SEXE :** Féminin
 
